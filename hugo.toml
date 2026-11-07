@@ -2,7 +2,7 @@
     #   tema ayarları
 theme = "solitude"         # tema
 baseURL = "https://sonersrnnn.github.io/"  # site link
-title = "Soner" # Site başlığı
+title = "Diyom" # Site başlığı
 locale = "tr"
 defaultContentLanguage = "tr"
 timeZone = "Europe/Istanbul"
@@ -124,31 +124,34 @@ enableGitInfo = false # true olursa sayfa tarihini Git commit'inden alır
 
   # Yazar bilgisi  -> DEĞİŞTİR
   [params.author]
-    name = "Soner"
+    name = "Diyom"
     email = "Sonersrnnn"
 
 # -----------------------------------------------------------------------------
 #  params.solitude : Solitude temasının kendi ayarları
 # -----------------------------------------------------------------------------
+[params.solitude.site]
+   icon = "/img/icon.png"
+
 
 # Sol üstte görünen site adı
 [params.solitude.site.name]
-  class = "text"          # "text" = düz yazı olarak göster
-  custom = "Diyom"     # DEĞİŞTİR: görünecek ad
+  class = "img"          # "text" = düz yazı olarak göster
+  custom = "/img/logom.png"     # DEĞİŞTİR: görünecek ad
 
 # ---- Navigasyondaki "Projeler" grubunda dış bağlantılar ----
 # Grup adı (menüde görünen başlık).
 # DEĞİŞTİR: kendi projelerinle.
-[[params.solitude.nav.group."Projeler"]]
-  name = "Ana Sayfa"
-  url = "https://github.com/everfu/hugo-solitude"
-  icon = "/img/logo.png"   # static/img/logo.png dosyası olmalı
+#[[params.solitude.nav.group."Projeler"]]
+#  name = "Ana Sayfa"
+#  url = "https://github.com/everfu/hugo-solitude"
+#  icon = "/img/logo.jpg"   # static/img/logo.png dosyası olmalı
 
-[[params.solitude.nav.group."Projeler"]]
-  name = "Kategoriler"
-  url = "https://solitude.js.org/"
-  icon = "/img/logo.png"
-
+#[[params.solitude.nav.group."Projeler"]]
+#  name = "Kategoriler"
+#  url = "https://solitude.js.org/"
+#  icon = "/img/logo.jpg"
+#
 
 
 # ---- Yan çubuk (aside) ----
@@ -185,7 +188,7 @@ enableGitInfo = false # true olursa sayfa tarihini Git commit'inden alır
 
 # ---- Alt bilgi (footer) ----
 [params.solitude.footer.information]
-  author = "/img/.jpg"   # alt şeritteki logo/avatar
+  author = "/img/1.jpg"   # alt şeritteki logo/avatar
 
   [[params.solitude.footer.information.left]]
     name = "deneme"
@@ -200,15 +203,15 @@ enableGitInfo = false # true olursa sayfa tarihini Git commit'inden alır
 # Üç sütunlu bağlantı alanı. Sütun başlıkları: Keşfet / Projeler / Hakkında
 [[params.solitude.footer.group."Keşfet"]]
   name = "Yazılar"
-  url = "/blog//archives/"
+  url = "/archives/"
 
 [[params.solitude.footer.group."Keşfet"]]
   name = "Kategoriler"
-  url = "/blog//categories/"
+  url = "/categories/"
 
 [[params.solitude.footer.group."Keşfet"]]
   name = "Etiketler"
-  url = "/blog//tags/"
+  url = "/tags/"
 
 [[params.solitude.footer.group."Projeler"]]
   name = "Resmi Dokümantasyon"
@@ -220,16 +223,16 @@ enableGitInfo = false # true olursa sayfa tarihini Git commit'inden alır
 
 [[params.solitude.footer.group."Hakkında"]]
   name = "Arkadaşlar"
-  url = "/blog/links/"
+  url = "/links/"
 
 [[params.solitude.footer.group."Hakkında"]]
   name = "Tema Hakkında"
-  url = "/blog/about/"
+  url = "/about/"
 
 # Alt kısımdaki küçük bağlantılar
 [[params.solitude.footer.links]]
   name = "Abone Ol"
-  url = "/blog/index.xml"
+  url = "/index.xml"
 
 
 

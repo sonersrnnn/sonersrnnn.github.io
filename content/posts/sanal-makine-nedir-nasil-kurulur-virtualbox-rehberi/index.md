@@ -1,21 +1,20 @@
 ---
 title: Sanal Makine Nedir, Nasıl Çalışır? Adım Adım Oracle VM VirtualBox Kurulum Rehberi
-date: 2026-10-18
 slug: sanal-makine-nedir-nasil-kurulur-virtualbox-rehberi
 description: Sanal makine (VM) kavramının ne olduğunu, hiperyönetici mantığını ve en popüler sanallaştırma aracı Oracle VM VirtualBox'ın adım adım kurulumunu öğrenin.
-cover: sanal-makine-nedir-nasil-kurulur-virtualbox-rehberi/img.webp
+date: 2026-10-18
+draft: false
+toc: false
+cover: sanal-makine-nedir-nasil-kurulur-virtualbox-rehberi/img.jpg
 categories:
-  - 🐧 Linux
+  - 🛡️ Siber Güvenlik
 tags:
-  - blog
   - sanal-makine
   - virtualbox
   - hypervisor
   - sizma-testleri
   - rehber
   - kurulum
-draft: false
-toc: false
 ---
 
 # Sanal Makine Nedir, Nasıl Çalışır? Adım Adım Oracle VM VirtualBox Kurulum Rehberi

@@ -1,7 +1,6 @@
 ---
-title: Linux İşletim Sistemi Nedir ? Açık Kaynak Dünyası ve Popüler Dağıtımlar
+title: Linux İşletim Sistemi Nedir? Açık Kaynak Dünyası ve Popüler Dağıtımlar
 tags:
-  - blog
   - linux
   - acik-kaynak
   - isletim-sistemi
@@ -12,16 +11,14 @@ tags:
 date: 2026-10-18
 slug: linux-isletim-sistemi-nedir-ve-dagitimlar
 description: Windows haricinde güçlü bir alternatif arayanlar için açık kaynaklı Linux işletim sistemi nedir, nasıl ortaya çıkmıştır ve en iyi dağıtımlar hangileridir?
+cover: linux-isletim-sistemi-nedir-ve-dagitimlar/image.png
 draft: false
 categories:
   - 🐧 Linux
 toc: false
-cover: linux-isletim-sistemi-nedir-ve-dagitimlar/image.png
 ---
 
 # Linux İşletim Sistemi Nedir? Açık Kaynak Dünyası ve Popüler Dağıtımlar
-
-
 
 Bilgisayar denildiğinde milyonlarca kullanıcının aklına ilk olarak Windows gelir. Ancak dijital dünyada Windows'un ötesinde, dünyayı arkasından sürükleyen çok güçlü ve özgür bir başka dev daha var: **Linux**. 
 
@@ -56,4 +53,3 @@ Linux, tek bir şirket tarafından tek tip olarak sunulmaz. Çekirdek üzerine i
 Eğer bilgisayarınızda tam kontrol sahibi olmak, reklamsız, hızlı ve tamamen güvenli bir işletim sistemi deneyimi yaşamak istiyorsanız Linux dünyasına bir şans vermelisiniz.
 
 ---
-
