@@ -15,6 +15,11 @@ enableGitInfo = false # true olursa sayfa tarihini Git commit'inden alır
 [uglyURLs]
   posts = false
 
+[params.solitude.extends]
+  head = [
+    '''<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Diyom","alternateName":["Diyom Blog"],"url":"https://sonersrnnn.github.io/"}</script>'''
+  ]
+
 
 [params.solitude.theme_color]
   light = "#60a5fa"
