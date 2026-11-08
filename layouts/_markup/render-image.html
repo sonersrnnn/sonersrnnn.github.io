@@ -1,0 +1,6 @@
+ {{- $dest := .Destination -}}
+  {{- $isExternal := or (hasPrefix $dest "http") (hasPrefix $dest "//") (hasPrefix $dest "data:") -}}
+  {{- if and (not $isExternal) (not (hasPrefix $dest "/")) -}}
+  {{- $dest = path.Join .Page.RelPermalink $dest -}}
+  {{- end -}}
+  <img src="{{ $dest | safeURL }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy">

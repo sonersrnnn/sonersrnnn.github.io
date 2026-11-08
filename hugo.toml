@@ -15,6 +15,7 @@ enableGitInfo = false # true olursa sayfa tarihini Git commit'inden alır
 [uglyURLs]
   posts = false
 
+
 [params.solitude.theme_color]
   light = "#60a5fa"
   dark = "#60a5fa"
