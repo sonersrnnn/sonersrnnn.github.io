@@ -2,10 +2,10 @@
 title: ViMusic ile Kesintisiz, Ücretsiz ve Reklamsız Müzik Keyfi
 slug: vimusic-ucretsiz-ve-reklamsiz-muzik-programi
 description: YouTube Music altyapısını kullanan, tamamen açık kaynaklı, reklamsız ve arka planda oynatma destekli Android müzik uygulaması ViMusic'i keşfedin.
-date: 2026-10-18
+date: 2026-11-04
 draft: false
 toc: false
-cover: vimusic-ucretsiz-ve-reklamsiz-muzik-programi/diyom-vimüzik.png
+cover: /img/vimusic-ucretsiz-ve-reklamsiz-muzik-programi/diyom-vimüzik.png
 categories:
   - 📱 Mobil Dünya
 tags:
@@ -37,8 +37,8 @@ Uygulama hafif yapısına rağmen oldukça zengin ve akıllı özelliklerle dona
 * **Android Auto Desteği:** Araç içi yolculuklarınızda Android Auto entegrasyonu ile güvenle müzik dinleyebilirsiniz.
 * **Zamanlayıcı (Sleep Timer):** Uyku dalmadan önce müziğin belirli bir süre sonra otomatik kapanmasını sağlayabilirsiniz.
 
-| ![](diyom-vimusic-1.jpg) | ![](diyom-vimusic-2.jpg) | ![](diyom-vimusic-3.jpg) |
-| ------------------------ | ------------------------ | ------------------------ |
+| ![](/img/vimusic-ucretsiz-ve-reklamsiz-muzik-programi/diyom-vimusic-1.jpg) | ![](/img/vimusic-ucretsiz-ve-reklamsiz-muzik-programi/diyom-vimusic-2.jpg) | ![](/img/vimusic-ucretsiz-ve-reklamsiz-muzik-programi/diyom-vimusic-3.jpg) |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 
 
 

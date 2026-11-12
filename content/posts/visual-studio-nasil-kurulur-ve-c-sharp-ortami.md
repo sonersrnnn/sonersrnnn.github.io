@@ -2,10 +2,10 @@
 title: Visual Studio Nasıl Kurulur? C# ve .NET Geliştirme Ortamı Kurulum Rehberi
 slug: visual-studio-nasil-kurulur-ve-c-sharp-ortami
 description: Microsoft Visual Studio Community sürümünün indirilmesi, C# için gerekli .NET iş yüklerinin seçilmesi ve adım adım geliştirme ortamının kurulması.
-date: 2026-10-18
+date: 2026-11-04
 draft: false
 toc: false
-cover: visual-studio-nasil-kurulur-ve-c-sharp-ortami/img1.png
+cover: /img/visual-studio-nasil-kurulur-ve-c-sharp-ortami/img1.png
 categories:
   - 💻 Yazılım & Kodlama
 tags:
@@ -38,7 +38,7 @@ Kurulum süreci oldukça basittir ancak doğru iş yüklerini (workloads) seçme
 
 ### 1. Visual Studio Installer'ın İndirilmesi
 
-![](img2.PNG)
+![](/img/visual-studio-nasil-kurulur-ve-c-sharp-ortami/img2.PNG)
 
 Resmi Microsoft Visual Studio indirme sayfasından **Community** sürümünü indirin. İndirilen kurulum yöneticisine (`Visual Studio Installer`) tıklayarak ilk yükleme ekranını başlatın.
 
@@ -49,10 +49,10 @@ Installer kurulumu tamamlandıktan sonra karşınıza farklı geliştirme alanla
 * **.NET masaüstü geliştirme**
 * **Evrensel Windows Platformu geliştirme**
 
-![](img6.png)
+![](/img/visual-studio-nasil-kurulur-ve-c-sharp-ortami/img6.png)
 
 ### 3. Dil Paketleri ve Yükleme
-![](img7.png)
+![](/img/visual-studio-nasil-kurulur-ve-c-sharp-ortami/img7.png)
 
 Üst sekmeden **Dil Paketleri** bölümüne giderek varsayılan Türkçe dilinin yanı sıra **İngilizce** dil paketini de seçebilirsiniz (yazılım dünyasında terimlere aşina olmak için İngilizce kullanımı önerilir). Ardından sağ alt köşedeki **Yükle** butonuna basarak indirme ve kurulum işlemini başlatın. İnternet hızınıza bağlı olarak bu işlem birkaç dakika sürebilir.
 

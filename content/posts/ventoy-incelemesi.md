@@ -1,12 +1,11 @@
 ---
 title: Ventoy ile Tek USB Sürücüde Sınırsız İşletim Sistemi Dünyası
 slug: ventoy-incelemesi
-description: Ventoy ile tek bir USB sürücüsüne birden fazla ISO dosyası
-  kopyalayarak çoklu işletim sistemi başlatma rehberi.
-date: 2026-10-18
+description: Ventoy ile tek bir USB sürücüsüne birden fazla ISO dosyası kopyalayarak çoklu işletim sistemi başlatma rehberi.
+date: 2026-11-02
 draft: false
 toc: false
-cover: ventoy-incelemesi/ventoy.png
+cover: /img/ventoy-incelemesi/ventoy.png
 categories:
   - 🐧 Linux
 tags:
@@ -23,7 +22,7 @@ Bilgisayar dünyasıyla iç içe olan herkesin ellerinde onlarca farklı ISO dos
 
 Peki ya tek bir USB sürücüye onlarca farklı ISO dosyasını doğrudan kopyalayıp, bilgisayarı başlattığınızda karşınıza çıkan şık bir menüden dilediğinizi seçebileceğinizi söylesek? **Ventoy**, tam olarak bu hayali gerçeğe dönüştüren devrim niteliğinde açık kaynaklı bir araçtır.
 
-![](ventoy.png)
+![](/img/ventoy-incelemesi/ventoy.png)
 
 ## Ventoy Nedir ve Nasıl Çalışır?
 

@@ -1,13 +1,11 @@
 ---
 title: Tor Browser Nedir, Nasıl Kullanılır? Anonim İnternet Rehberi
 slug: tor-browser-nedir-nasil-kullanilir-anonim-internet-rehberi
-description: Tor Browser nedir nasıl kullanılır merak ediyorsanız, sansürsüz ve
-  anonim internet gezintisi için kurulum, köprü ve güvenlik ayarları rehberi
-  burada.
+description: Tor Browser nedir nasıl kullanılır merak ediyorsanız, sansürsüz ve anonim internet gezintisi için kurulum, köprü ve güvenlik ayarları rehberi burada.
 date: 2026-11-01
 draft: false
 toc: false
-cover: tor-browser-nedir-nasil-kullanilir-anonim-internet-rehberi/Tor1.jpg
+cover: /img/tor-browser-nedir-nasil-kullanilir-anonim-internet-rehberi/Tor1.jpg
 categories:
   - 📱 Mobil Dünya
 tags:
@@ -20,7 +18,7 @@ tags:
 ---
 # Tor Browser Nedir, Nasıl Kullanılır? Anonim İnternet Rehberi
 
-![](Tor1.jpg)
+![](/img/tor-browser-nedir-nasil-kullanilir-anonim-internet-rehberi/Tor1.jpg)
 
 **Tor Browser nedir nasıl kullanılır** sorusu, dijital gözetimin, internet sansürünün ve kullanıcı takibinin zirveye ulaştığı günümüz dünyasında gerçek gizlilik arayanların en çok araştırdığı konudur. İnternet servis sağlayıcılarının gezindiğiniz her sayfayı kaydettiği, reklam ağlarının parmak izinizi çıkararak profil oluşturduğu modern web ortamında standart tarayıcılar yetersiz kalır. İşte bu noktada Tor Browser, verilerinizi üç katmanlı şifreleme ve küresel gönüllü röle ağı üzerinden yönlendirerek hem IP adresinizi gizler hem de sansürsüz, tamamen anonim bir internet deneyimi sunar.
 
@@ -55,7 +53,7 @@ Tor Browser güçlü bir anonimlik kalkanı olsa da kullanıcıların en büyük
 
 - - -
 
-![](Tor2.jpg)
+![](/img/tor-browser-nedir-nasil-kullanilir-anonim-internet-rehberi/Tor2.jpg)
 
 ## Adım Adım Tor Browser Kurulumu Nasıl Yapılır?
 
@@ -123,7 +121,7 @@ Tor Browser'ı kurup açmak tek başına tam koruma sağlamaz. Yanlış bir alı
 
 - - -
 
-![](Tor3.jpg)
+![](/img/tor-browser-nedir-nasil-kullanilir-anonim-internet-rehberi/Tor3.jpg)
 
 ## .onion Siteleri (Gizli Servisler) Nedir?
 

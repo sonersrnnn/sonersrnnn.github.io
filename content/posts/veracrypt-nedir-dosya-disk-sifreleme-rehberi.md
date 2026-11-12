@@ -3,7 +3,7 @@ title: VeraCrypt Nedir? Dosya ve Disk Şifreleme Rehberi
 date: 2026-11-01
 slug: veracrypt-nedir-dosya-disk-sifreleme-rehberi
 description: VeraCrypt nedir, nasıl kullanılır? Ücretsiz ve açık kaynaklı dosya şifreleme programıyla verilerinizi AES ile koruyun. Adım adım kurulum ve kasa oluşturma rehberi.
-cover: veracrypt-nedir-dosya-disk-sifreleme-rehberi/Vera1.png
+cover: /img/veracrypt-nedir-dosya-disk-sifreleme-rehberi/Vera1.png
 categories:
   - 🐧 Linux
 tags:
@@ -19,7 +19,7 @@ toc: false
 ---
 
 # VeraCrypt Nedir? Ücretsiz Dosya ve Disk Şifreleme Programı Rehberi
-![VeraCrypt](Vera1.png "veracrypt nedir nasıl kullanılır")
+![VeraCrypt](/img/veracrypt-nedir-dosya-disk-sifreleme-rehberi/Vera1.png "veracrypt nedir nasıl kullanılır")
 
 **Dosya şifreleme programı** arayanların önüne en sık çıkan isim **VeraCrypt**'tir; ve bu tesadüf değildir. VeraCrypt, Windows, macOS ve Linux üzerinde çalışan, tamamen ücretsiz ve açık kaynaklı bir disk şifreleme yazılımıdır. Dosyalarınızı, USB belleğinizi veya tüm sabit diskinizi askeri düzeyde AES şifrelemeyle korur; şifrenizi bilmeyen hiç kimse — istihbarat teşkilatları dahil — verilerinize ulaşamaz. Bu rehberde VeraCrypt'in ne olduğunu, nasıl çalıştığını ve adım adım nasıl kullanacağınızı eksiksiz anlatacağız.
 
@@ -61,7 +61,7 @@ Parolaya ek olarak belirli bir dosyayı (fotoğraf, müzik, herhangi bir dosya) 
 
 ### 🔢 PIM (Personal Iterations Multiplier)
 Anahtar türetme işleminin kaç tur tekrar edeceğini belirleyen ek parametre. Yüksek PIM, brute-force saldırılarını dramatik biçimde zorlaştırır; ancak bağlama süresi uzar.
-![VeraCrypt](Vera2.jpg)
+![VeraCrypt](/img/veracrypt-nedir-dosya-disk-sifreleme-rehberi/Vera2.jpg)
 
 ---
 

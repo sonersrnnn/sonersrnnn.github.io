@@ -1,9 +1,9 @@
 ---
 title: VPN Nedir? Kali Linux Üzerinde Vpnbook ile OpenVPN Kurulumu ve Kullanımı
-date: 2026-10-21
+date: 2026-11-02
 slug: vpn-nedir-ve-kali-linux-openvpn-kurulumu
 description: VPN teknolojisinin çalışma mantığı ve Kali Linux üzerinde Vpnbook ile OpenVPN kullanarak güvenli tünel oluşturma rehberi.
-cover: vpn-nedir-ve-kali-linux-openvpn-kurulumu/image.png
+cover: /img/vpn-nedir-ve-kali-linux-openvpn-kurulumu/image.png
 categories:
   - 🛡️ Siber Güvenlik
 tags:

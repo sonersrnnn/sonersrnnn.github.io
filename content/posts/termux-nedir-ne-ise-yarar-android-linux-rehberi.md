@@ -1,12 +1,11 @@
 ---
 title: Termux Nedir, Ne İşe Yarar? Android Linux Rehberi
 slug: termux-nedir-ne-ise-yarar-android-linux-rehberi
-description: Termux nedir ne işe yarar merak ediyorsanız, Android cihazınızı
-  rootsuz tam donanımlı Linux terminaline dönüştüren bu rehber tam size göre.
-date: 2026-11-01
+description: Termux nedir ne işe yarar merak ediyorsanız, Android cihazınızı rootsuz tam donanımlı Linux terminaline dönüştüren bu rehber tam size göre.
+date: 2026-11-02
 draft: false
 toc: false
-cover: termux-nedir-ne-ise-yarar-android-linux-rehberi/Temux1.jpg
+cover: /img/termux-nedir-ne-ise-yarar-android-linux-rehberi/Temux1.jpg
 categories:
   - 🐧 Linux
   - 📱 Mobil Dünya
@@ -21,7 +20,7 @@ tags:
 ---
 # Termux Nedir, Ne İşe Yarar? Android Linux Rehberi
 
-![](Temux1.jpg)
+![](/img/termux-nedir-ne-ise-yarar-android-linux-rehberi/Temux1.jpg)
 
 **Termux nedir ne işe yarar** sorusu, akıllı telefonunu yalnızca bir tüketim aracı olarak değil, güçlü bir taşınabilir geliştirme ve otomasyon laboratuvarı olarak kullanmak isteyen herkesin karşısına çıkan en önemli başlıklardan biridir. Günlük yaşantımızda elimizden düşürmediğimiz Android telefonlar aslında arka planda Linux çekirdeği barındıran güçlü birer mini bilgisayardır; ancak bu donanımın sunduğu teknik güce standart mobil arayüzlerle erişmek oldukça zordur. İşte bu noktada Termux, Android cihazınızda herhangi bir root yetkisi gerektirmeden tam donanımlı bir Linux komut satırı ortamı sağlayarak telefonunuzu gerçek bir yazılım geliştirme, ağ yönetimi ve dosya otomasyonu merkezine dönüştürür.
 
@@ -51,7 +50,7 @@ Termux'un sunduğu işlevler yalnızca bir siyah terminal ekranıyla sınırlı 
 
 Android cihazınızda internet sınırlarını ve ağ engellerini aşmak için [ByeByeDPI Nedir? Android'de Rootsuz Hotspot Sınırı ve DPI Aşma](https://sonersrnnn.github.io/byebyedpi-nedir-rootsuz-hotspot-siniri-nasil-asilir/) gibi araçları incelerken, arka planda gelişmiş ağ parametrelerini denetlemek ve komut satırından ağ trafiğini test etmek için de Termux benzersiz bir ortam sunar.
 
-![](Termux2.jpg)
+![](/img/termux-nedir-ne-ise-yarar-android-linux-rehberi/Termux2.jpg)
 
 - - -
 
@@ -155,7 +154,7 @@ Termux üzerinden `yt-dlp` ve `ffmpeg` kurarak yüksek çözünürlüklü videol
 
 - - -
 
-![](Termux3.jpg)
+![](/img/termux-nedir-ne-ise-yarar-android-linux-rehberi/Termux3.jpg)
 
 ## Termux Kullanımını Kolaylaştıran İpuçları
 
