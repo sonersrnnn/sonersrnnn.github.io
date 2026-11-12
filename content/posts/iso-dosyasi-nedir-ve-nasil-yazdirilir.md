@@ -13,7 +13,6 @@ tags:
   - rufus
   - windows
   - iso
-  - rehber
 ---
 # ISO Dosyası Nedir, Nerede Kullanılır ve Rufus ile USB'ye Nasıl Yazdırılır?
 

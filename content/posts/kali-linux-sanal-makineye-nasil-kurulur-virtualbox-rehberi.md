@@ -10,7 +10,6 @@ tags:
   - kali-linux
   - virtualbox
   - sanal-makine
-  - kurulum
   - siber-guvenlik
 draft: false
 toc: false

@@ -12,7 +12,6 @@ tags:
   - c-sharp
   - unity
   - yazilim
-  - rehber
 ---
 # C# (C Sharp) Programlama Dili ile Neler Yapılabilir? Kapsamlı Rehber
 

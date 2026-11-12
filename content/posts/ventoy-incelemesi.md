@@ -9,7 +9,6 @@ cover: /img/ventoy-incelemesi/ventoy.png
 categories:
   - Linux
 tags:
-  - blog
   - ventoy
   - iso
   - iso

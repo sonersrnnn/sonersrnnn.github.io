@@ -9,11 +9,8 @@ cover: /img/visual-studio-nasil-kurulur-ve-c-sharp-ortami/img1.png
 categories:
   - Yazilim & Kodlama
 tags:
-  - blog
   - visual-studio
   - c-sharp
-  - kurulum
-  - rehber
   - ide
 ---
 # Visual Studio Nasıl Kurulur? C# ve .NET Geliştirme Ortamı Kurulum Rehberi

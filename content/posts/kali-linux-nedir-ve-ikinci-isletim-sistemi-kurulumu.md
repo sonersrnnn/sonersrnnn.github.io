@@ -10,7 +10,6 @@ tags:
   - kali-linux
   - dual-boot
   - isletim-sistemi
-  - kurulum
   - siber-guvenlik
 draft: false
 toc: false

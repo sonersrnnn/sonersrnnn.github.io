@@ -15,7 +15,6 @@ tags:
   - gnu
   - linux
   - felsefe
-  - teknoloji
 ---
 # Özgür Yazılım ve Açık Kaynak Nedir? Farkları ve Önemi
 

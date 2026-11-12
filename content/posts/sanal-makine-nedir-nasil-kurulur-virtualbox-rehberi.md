@@ -11,10 +11,7 @@ categories:
 tags:
   - sanal-makine
   - virtualbox
-  - sanal-makine
   - sizma-testleri
-  - rehber
-  - kurulum
 ---
 
 # Sanal Makine Nedir, Nasıl Çalışır? Adım Adım Oracle VM VirtualBox Kurulum Rehberi
