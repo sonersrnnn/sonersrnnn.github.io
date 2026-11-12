@@ -5,7 +5,7 @@ slug: safedot-telefon-kamerasi-ve-mikrofonu-kullanildiginda-uyarir
 description: Android cihazlarda telefon kamerası ve mikrofonu kullanıldığında anında uyarı veren SafeDot uygulaması incelemesi ve gizlilik rehberi.
 cover: /img/safedot-telefon-kamerasi-ve-mikrofonu-kullanildiginda-uyarir/siber.jpg
 categories:
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
   - safedot
   - gizlilik

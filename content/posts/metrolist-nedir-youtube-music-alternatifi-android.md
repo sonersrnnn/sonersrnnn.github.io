@@ -5,7 +5,7 @@ slug: metrolist-nedir-youtube-music-alternatifi-android
 description: YouTube Music kütüphanesini reklamsız, arka planda ve çevrimdışı dinlemenizi sağlayan açık kaynaklı Metrolist uygulamasını tüm özellikleriyle keşfedin.
 cover: /img/metrolist-nedir-youtube-music-alternatifi-android/icon.png
 categories:
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
   - metrolist
   - youtube-music

@@ -5,7 +5,7 @@ slug: protonvpn-revanced-nedir-ucretsiz-vpn-guclendir
 description: ProtonVPN ReVanced nedir? Sunucu gecikmesi olmadan bölünmüş tünelleme açık, ücretsiz ve güvenli VPN kullanımı için tam rehber.
 cover: /img/protonvpn-revanced-nedir-ucretsiz-vpn-guclendir/p1.jpg
 categories:
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
   - protonvpn
   - revanced

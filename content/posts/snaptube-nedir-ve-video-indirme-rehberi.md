@@ -5,7 +5,7 @@ slug: snaptube-nedir-ve-video-indirme-rehberi
 description: YouTube, Instagram, Facebook ve Twitter dahil 50'den fazla platformdan ücretsiz video ve müzik indirmenizi sağlayan Snaptube rehberi.
 cover: /img/snaptube-nedir-ve-video-indirme-rehberi/image.jpg
 categories:
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
   - Snaptube
   - Android

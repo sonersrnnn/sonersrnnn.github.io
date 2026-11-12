@@ -5,8 +5,8 @@ slug: kali-linux-grub-loading-error-22-cozumu
 description: Kali Linux kaldırıldıktan sonra karşılaşılan Grub loading please wait Error 22 hatasının Windows kurulum USB'si ile adım adım kesin çözüm rehberi.
 cover: /img/kali-linux-grub-loading-error-22-cozumu/image.png
 categories:
-  - Pratik Çözümler
-  - Siber Güvenlik
+  - Pratik Cozumler
+  - Siber Guvenlik
 tags:
   - grub
   - error-22

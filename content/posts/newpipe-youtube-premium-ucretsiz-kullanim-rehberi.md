@@ -5,7 +5,7 @@ slug: newpipe-youtube-premium-ucretsiz-kullanim-rehberi
 description: YouTube Premium özelliklerini ücretsiz sunan açık kaynaklı NewPipe nedir? Reklamsız video, arka planda oynatma ve gizlilik rehberi.
 cover: /img/newpipe-youtube-premium-ucretsiz-kullanim-rehberi/diyomm.png
 categories:
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
   - NewPipe
   - YouTube

@@ -5,7 +5,7 @@ slug: apk-extractor-ile-yuklu-uygulamalardan-apk-nasil-alinir
 description: Android telefonunuzda yüklü uygulamaların APK dosyalarını kolayca dışa aktarma ve yedekleme rehberi.
 cover: /img/apk-extractor-ile-yuklu-uygulamalardan-apk-nasil-alinir/apk.png
 categories:
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
   - apk
   - apk-extractor

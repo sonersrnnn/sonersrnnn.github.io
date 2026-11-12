@@ -5,7 +5,7 @@ slug: kali-linux-sanal-makineye-nasil-kurulur-virtualbox-rehberi
 description: Kali Linux siber güvenlik işletim sistemini Oracle VM VirtualBox kullanarak sanal makineye adım adım nasıl kuracağınızı öğrenin.
 cover: /img/kali-linux-sanal-makineye-nasil-kurulur-virtualbox-rehberi/kali-linux.jpg
 categories:
-  - Siber Güvenlik
+  - Siber Guvenlik
 tags:
   - kali-linux
   - virtualbox

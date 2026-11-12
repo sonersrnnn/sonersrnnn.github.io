@@ -6,7 +6,7 @@ description: Android root nasıl yapılır? Magisk ile bootloader kilidi açma, 
 cover: /img/android-root-nasil-yapilir-magisk-ile-adim-adim-rehber/root1.png
 categories:
   - Linux
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
   - android
   - root

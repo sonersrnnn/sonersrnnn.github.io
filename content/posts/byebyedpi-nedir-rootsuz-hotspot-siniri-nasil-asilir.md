@@ -5,7 +5,7 @@ slug: byebyedpi-nedir-rootsuz-hotspot-siniri-nasil-asilir
 description: ByeByeDPI ile Android cihazlarda rootsuz olarak internet paylaşımı (hotspot) kısıtlamalarını ve TTL sınırlarını nasıl aşacağınızı öğrenin.
 cover: /img/byebyedpi-nedir-rootsuz-hotspot-siniri-nasil-asilir/1.jpg
 categories:
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
   - byebyedpi
   - hotspot

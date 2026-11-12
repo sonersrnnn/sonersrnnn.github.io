@@ -5,7 +5,7 @@ slug: adguard-nedir-guvenli-reklam-engelleme-rehberi
 description: "İnternette güvenle gezinin: AdGuard ile video reklamları, açılır pencereler, zararlı siteler ve üçüncü taraf takipçileri nasıl engellenir?"
 cover: /img/adguard-nedir-guvenli-reklam-engelleme-rehberi/image.png
 categories:
-  - Pratik Çözümler
+  - Pratik Cozumler
 tags:
   - adguard
   - reklam-engelleme

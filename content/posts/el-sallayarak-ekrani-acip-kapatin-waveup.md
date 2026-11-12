@@ -5,7 +5,7 @@ slug: el-sallayarak-ekrani-acip-kapatin-waveup
 description: Akıllı telefonunuzda saate bakmak için sürekli güç tuşuna basmaktan sıkıldıysanız, yakınlık sensörünü kullanan açık kaynaklı WaveUp uygulamasını keşfedin.
 cover: /img/el-sallayarak-ekrani-acip-kapatin-waveup/img8.png
 categories:
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
   - waveup
   - android

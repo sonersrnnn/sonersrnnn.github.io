@@ -5,14 +5,12 @@ slug: microg-nedir-google-play-hizmetleri-olmadan-uygulama-calistirin
 description: microG nedir? Google Play Hizmetleri olmadan Android uygulamalarını nasıl çalıştırırsınız? GmsCore, UnifiedNlp ve ReVanced desteğiyle tam rehber.
 cover: /img/microg-nedir-google-play-hizmetleri-olmadan-uygulama-calistirin/image.jpg
 categories:
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
-  - microg
   - microg
   - android
   - gizlilik
   - acik-kaynak
-  - microg
   - revanced
 draft: false
 toc: false

@@ -5,7 +5,7 @@ slug: komi-store-nedir-githubdan-direkt-apk-kurulum-rehberi
 description: Komi Store nedir? GitHub, Codeberg ve Forgejo üzerindeki açık kaynak uygulamaları tek tıkla Android'e kurun. Shizuku, root desteği ve F-Droid alternatifi rehber.
 cover: /img/komi-store-nedir-githubdan-direkt-apk-kurulum-rehberi/Komi1.png
 categories:
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
   - komi-store
   - android

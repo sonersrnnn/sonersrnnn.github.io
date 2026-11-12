@@ -5,7 +5,7 @@ slug: airgeddon-ile-kali-linux-wifi-kirma-ve-evil-twin-saldirisi
 description: Kali Linux ve Airgeddon aracı ile Evil Twin (Şeytani İkiz) saldırısı düzenleyerek Wi-Fi güvenliği testleri yapma ve şifre analizi rehberi.
 cover: /img/airgeddon-ile-kali-linux-wifi-kirma-ve-evil-twin-saldirisi/image.png
 categories:
-  - Siber Güvenlik
+  - Siber Guvenlik
   - Linux
 tags:
   - airgeddon

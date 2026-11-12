@@ -5,11 +5,10 @@ slug: kali-linux-root-hesabi-aktiflestirme-ve-sudo-problemi-cozumu
 description: Kali Linux üzerinde her komutta sudo yazma zorunluluğunu ortadan kaldırmak için root hesabını aktif etme ve şifre belirleme rehberi.
 cover: /img/kali-linux-root-hesabi-aktiflestirme-ve-sudo-problemi-cozumu/Ekran.png
 categories:
-  - Siber Güvenlik
+  - Siber Guvenlik
 tags:
   - kali-linux
   - root
-  - sudo
   - sudo
   - sudo
 draft: false

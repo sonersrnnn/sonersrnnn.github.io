@@ -5,7 +5,7 @@ slug: instagram-ve-twitter-sekilli-yazi-yazma-rehberi
 description: Instagram ve Twitter biyografi, hikaye ve gönderilerinizde kullanabileceğiniz şekilli yazı yazma, font değiştirme ve profil özelleştirme rehberi.
 cover: /img/instagram-ve-twitter-sekilli-yazi-yazma-rehberi/instagram.png
 categories:
-  - Pratik Çözümler
+  - Pratik Cozumler
 tags:
   - Instagram
   - Twitter

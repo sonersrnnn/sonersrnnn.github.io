@@ -7,7 +7,7 @@ draft: false
 toc: false
 cover: /img/revanced-manager-plus-nedir-nasil-kullanilir-rv-manager-plus/revencedpplas.png
 categories:
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
   - revanced-manager
   - revanced-manager

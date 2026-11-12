@@ -7,7 +7,7 @@ draft: false
 toc: false
 cover: /img/tor-browser-nedir-nasil-kullanilir-anonim-internet-rehberi/Tor1.jpg
 categories:
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
   - tor-browser
   - anonimlik

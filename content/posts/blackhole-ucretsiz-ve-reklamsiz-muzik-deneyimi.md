@@ -5,7 +5,7 @@ slug: blackhole-ucretsiz-ve-reklamsiz-muzik-deneyimi
 description: BlackHole ile yüksek kaliteli, ücretsiz ve reklamsız açık kaynak müzik dinleme deneyimi rehberi.
 cover: /img/blackhole-ucretsiz-ve-reklamsiz-muzik-deneyimi/blockhole.png
 categories:
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
   - blackhole
   - muzik

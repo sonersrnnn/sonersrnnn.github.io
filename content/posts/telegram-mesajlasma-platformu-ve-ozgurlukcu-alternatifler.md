@@ -7,7 +7,7 @@ draft: false
 toc: false
 cover: /img/telegram-mesajlasma-platformu-ve-ozgurlukcu-alternatifler/t.png
 categories:
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
   - telegram
   - mesajlasma

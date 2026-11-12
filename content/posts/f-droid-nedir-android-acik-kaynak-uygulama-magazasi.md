@@ -7,7 +7,7 @@ draft: false
 toc: false
 cover: /img/f-droid-nedir-android-acik-kaynak-uygulama-magazasi/images.png
 categories:
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
   - f-droid
   - android

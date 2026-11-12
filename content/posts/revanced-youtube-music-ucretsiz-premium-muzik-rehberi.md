@@ -7,7 +7,7 @@ draft: false
 toc: false
 cover: /img/revanced-youtube-music-ucretsiz-premium-muzik-rehberi/revencedmusicc.jpeg
 categories:
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
   - revanced-youtube-music
   - youtube-music

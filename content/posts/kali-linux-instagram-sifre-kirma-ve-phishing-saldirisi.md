@@ -5,7 +5,7 @@ slug: kali-linux-instagram-sifre-kirma-ve-phishing-saldirisi
 description: Kali Linux ve Zphisher aracı ile Phishing (oltalama) yöntemi kullanarak sosyal medya şifre analizi ve siber güvenlik farkındalık rehberi.
 cover: /img/kali-linux-instagram-sifre-kirma-ve-phishing-saldirisi/image.png
 categories:
-  - Siber Güvenlik
+  - Siber Guvenlik
 tags:
   - kali-linux
   - instagram

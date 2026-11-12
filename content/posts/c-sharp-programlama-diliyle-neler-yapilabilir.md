@@ -7,7 +7,7 @@ draft: false
 toc: false
 cover: /img/c-sharp-programlama-diliyle-neler-yapilabilir/C-1.png
 categories:
-  - Yazılım & Kodlama
+  - Yazilim & Kodlama
 tags:
   - c-sharp
   - unity

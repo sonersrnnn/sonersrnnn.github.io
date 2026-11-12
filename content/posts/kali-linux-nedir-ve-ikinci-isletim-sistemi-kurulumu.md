@@ -5,7 +5,7 @@ slug: kali-linux-nedir-ve-ikinci-isletim-sistemi-kurulumu
 description: Kali Linux işletim sisteminin tanımı ve Windows yanına ikinci işletim sistemi (Dual Boot) olarak adım adım kurulum rehberi.
 cover: /img/kali-linux-nedir-ve-ikinci-isletim-sistemi-kurulumu/kali-linux.jpg
 categories:
-  - Siber Güvenlik
+  - Siber Guvenlik
 tags:
   - kali-linux
   - dual-boot

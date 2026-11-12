@@ -5,7 +5,7 @@ slug: rectv-ile-ucretsiz-film-ve-dizi-izleme-rehberi
 description: RecTV nedir, nasıl kullanılır? Popüler platform içeriklerini ücretsiz izleme ve çevrimdışı film dizi indirme özellikleri hakkında kapsamlı rehber.
 cover: /img/rectv-ile-ucretsiz-film-ve-dizi-izleme-rehberi/image.png
 categories:
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
   - RecTV
   - Netflix

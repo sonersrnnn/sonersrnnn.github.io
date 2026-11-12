@@ -5,7 +5,7 @@ slug: instagram-hikayelerine-ve-videolara-gizlice-bakma-rehberi
 description: Instagram'da açık profillerin hikayelerine ve videolarına kimliğinizi belli etmeden gizlice nasıl bakabileceğinizi ve indirebileceğinizi öğrenin.
 cover: /img/instagram-hikayelerine-ve-videolara-gizlice-bakma-rehberi/image.png
 categories:
-  - Pratik Çözümler
+  - Pratik Cozumler
 tags:
   - Instagram
   - Gizlilik

@@ -5,7 +5,7 @@ slug: revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi
 description: Reklamsız video, arka planda oynatma, SponsorBlock ve gelişmiş kişiselleştirme sunan açık kaynaklı YouTube ReVanced hakkında kapsamlı rehber.
 cover: /img/revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi/imga.jpeg
 categories:
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
   - revanced
   - youtube

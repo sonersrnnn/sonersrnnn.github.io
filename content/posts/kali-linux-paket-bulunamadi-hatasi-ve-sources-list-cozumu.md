@@ -5,7 +5,7 @@ slug: kali-linux-paket-bulunamadi-hatasi-ve-sources-list-cozumu
 description: Kali Linux üzerinde paket yükleme ve güncelleme yaparken yaşanan 'paket bulunamadı' hatasının sources.list dosyası ile kesin çözüm rehberi.
 cover: /img/kali-linux-paket-bulunamadi-hatasi-ve-sources-list-cozumu/image.png
 categories:
-  - Siber Güvenlik
+  - Siber Guvenlik
 tags:
   - kali-linux
   - apt

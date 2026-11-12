@@ -7,7 +7,7 @@ draft: false
 toc: false
 cover: /img/cloudstream-nedir-ucretsiz-film-dizi-izleme-uygulamasi/cloudstream.png
 categories:
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
   - cloudstream
   - ucretsiz-film-dizi

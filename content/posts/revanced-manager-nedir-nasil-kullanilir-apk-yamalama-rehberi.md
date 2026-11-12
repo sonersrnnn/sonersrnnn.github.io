@@ -7,7 +7,7 @@ draft: false
 toc: false
 cover: /img/revanced-manager-nedir-nasil-kullanilir-apk-yamalama-rehberi/revencedmanager.png
 categories:
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
   - revanced-manager
   - revanced

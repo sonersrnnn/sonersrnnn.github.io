@@ -5,7 +5,7 @@ slug: keeppassdx-android-guvenli-sifre-yoneticisi
 description: Android için açık kaynaklı ve güvenli şifre kasası KeePassDX ile verilerinizi nasıl korursunuz? Argon2, 2FA ve otomatik doldurma özellikleri.
 cover: /img/keeppassdx-android-guvenli-sifre-yoneticisi/1.jpg
 categories:
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
   - keeppassdx
   - sifre-yoneticisi

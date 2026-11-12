@@ -7,7 +7,7 @@ draft: false
 toc: false
 cover: /img/adaway-nedir-android-icin-acik-kaynakli-reklam-engelleyici/iadaway.jpg
 categories:
-  - Mobil Dünya
+  - Mobil Dunya
 tags:
   - adaway
   - android

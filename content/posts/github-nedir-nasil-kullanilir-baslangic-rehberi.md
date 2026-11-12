@@ -11,9 +11,7 @@ categories:
 tags:
   - github
   - git
-  - git
   - yazilim
-  - git
   - acik-kaynak
 ---
 # GitHub Nedir? Git ile Kod Yönetiminde Başlangıç Rehberi
