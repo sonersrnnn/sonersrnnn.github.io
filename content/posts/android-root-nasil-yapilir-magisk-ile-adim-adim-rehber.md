@@ -3,7 +3,7 @@ title: Android Root Nasıl Yapılır? Magisk ile Adım Adım Rootlama Rehberi
 date: 2026-11-01
 slug: android-root-nasil-yapilir-magisk-ile-adim-adim-rehber
 description: Android root nasıl yapılır? Magisk ile bootloader kilidi açma, boot.img yamalama ve adım adım rootlama rehberi. Riskler, faydalar ve Magisk modülleri.
-cover: img/android-root-nasil-yapilir-magisk-ile-adim-adim-rehber/root1.png
+cover: /img/android-root-nasil-yapilir-magisk-ile-adim-adim-rehber/root1.png
 categories:
   - 📱 Mobil Dünya
   - 🐧 Linux
