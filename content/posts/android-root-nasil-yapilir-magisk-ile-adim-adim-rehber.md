@@ -21,7 +21,7 @@ toc: false
 ---
 
 # Android Root Nasıl Yapılır? Magisk ile Adım Adım Rootlama Rehberi
-![](root1.png)
+![](img/android-root-nasil-yapilir-magisk-ile-adim-adim-rehber/root1.png)
 
 **Android root nasıl yapılır** sorusu, telefonunun sınırlarını zorlamak isteyen her Android kullanıcısının bir noktada sorduğu sorudur. Root işlemi, cihazınızda "Süper Kullanıcı" (Superuser) yetkisi kazanarak üreticinin ve Google'ın koyduğu kısıtlamaları kaldırmanızı sağlar; bu sayede sistem uygulamalarını silebilir, işlemci hızını ayarlayabilir ve Custom ROM kurabilirsiniz. Ancak rootlama, yanlış yapıldığında telefonunuzu açılmaz hale getirebilecek ciddi bir işlemdir. Bu rehberde Android rootlamanın ne olduğunu, faydalarını, risklerini ve günümüzün en güvenilir yöntemi olan **Magisk ile adım adım rootlama** sürecini tüm detaylarıyla ele alacağız.
 
@@ -64,7 +64,7 @@ LineageOS, GrapheneOS veya PixelExperience gibi özel ROM'lar kurabilirsiniz. Bu
 ### Kapsamlı Yedekleme
 Root yetkisiyle tüm uygulamaların verilerini (giriş bilgileri, oyun ilerlemeleri dahil) yedekleyebilirsiniz. Normal Android yedeklemeleri bu verilere erişemez.
 
-![](root2.jpg)
+![](img/android-root-nasil-yapilir-magisk-ile-adim-adim-rehber/root2.jpg)
 
 ---
 
@@ -108,7 +108,7 @@ Root izni verdiğiniz kötü niyetli bir uygulama, tüm cihaza erişebilir. Güv
 - **Modül ekosistemi:** Yüzlerce modülle sistemi özelleştirebilirsiniz
 - **Kolay kaldırma:** Magisk'i kaldırmak, stok `boot.img` yüklemek kadar basittir
 - **Aktif geliştirme:** Düzenli güncellemeler ve topluluk desteği
-![](root3.jpg)
+![](img/android-root-nasil-yapilir-magisk-ile-adim-adim-rehber/root3.jpg)
 
 ---
 
