@@ -1,6 +1,6 @@
 ---
 title: APK Extractor ile Yüklü Uygulamalardan APK Dosyalarını Alma Rehberi
-date: 2026-11-29
+date: 2026-10-29
 slug: apk-extractor-ile-yuklu-uygulamalardan-apk-nasil-alinir
 description: Android telefonunuzda yüklü uygulamaların APK dosyalarını kolayca dışa aktarma ve yedekleme rehberi.
 cover: /img/apk-extractor-ile-yuklu-uygulamalardan-apk-nasil-alinir/apk.png
