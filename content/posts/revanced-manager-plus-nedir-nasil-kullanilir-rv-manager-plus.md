@@ -9,8 +9,8 @@ cover: /img/revanced-manager-plus-nedir-nasil-kullanilir-rv-manager-plus/revence
 categories:
   - Mobil Dünya
 tags:
-  - revanced-manager-plus
-  - rv-manager
+  - revanced-manager
+  - revanced-manager
   - revanced
   - vanced
   - android

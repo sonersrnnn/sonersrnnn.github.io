@@ -12,7 +12,7 @@ tags:
   - root
   - magisk
   - bootloader
-  - superuser
+  - root
   - play-integrity
   - knox
   - custom-rom

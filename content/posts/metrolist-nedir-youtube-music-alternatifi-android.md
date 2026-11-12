@@ -12,7 +12,7 @@ tags:
   - android
   - acik-kaynak
   - reklamsiz
-  - muzik-calar
+  - muzik
 draft: false
 toc: false
 ---

@@ -9,9 +9,9 @@ categories:
 tags:
   - vpn
   - kali-linux
-  - openvpn
-  - vpnbook
-  - ag-guvenligi
+  - vpn
+  - vpn
+  - guvenlik
 draft: false
 toc: false
 ---

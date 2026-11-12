@@ -10,10 +10,10 @@ categories:
   - Linux
 tags:
   - mtkclient
-  - mediatek
+  - mtkclient
   - android
   - root
-  - rom
+  - custom-rom
   - unbrick
   - acik-kaynak
 ---

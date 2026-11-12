@@ -10,12 +10,12 @@ tags:
   - komi-store
   - android
   - apk
-  - açık-kaynak
+  - acik-kaynak
   - github
   - f-droid
-  - uygulama-mağazası
+  - uygulama-magazasi
   - shizuku
-  - yan-yükleme
+  - yan-yukleme
 draft: false
 toc: false
 ---

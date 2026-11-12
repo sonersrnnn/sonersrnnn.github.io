@@ -8,8 +8,8 @@ categories:
   - Linux
 tags:
   - veracrypt
-  - dosya-sifreleme
-  - disk-sifreleme
+  - sifreleme
+  - sifreleme
   - gizlilik
   - acik-kaynak
   - aes

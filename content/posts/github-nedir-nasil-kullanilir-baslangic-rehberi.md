@@ -11,10 +11,10 @@ categories:
 tags:
   - github
   - git
-  - versiyon-kontrol
-  - yazılım
-  - açık-kaynak
-  - kod-yönetimi
+  - git
+  - yazilim
+  - git
+  - acik-kaynak
 ---
 # GitHub Nedir? Git ile Kod Yönetiminde Başlangıç Rehberi
 

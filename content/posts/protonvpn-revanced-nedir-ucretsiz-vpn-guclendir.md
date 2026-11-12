@@ -13,7 +13,7 @@ tags:
   - gizlilik
   - android
   - split-tunneling
-  - açık-kaynak
+  - acik-kaynak
 draft: false
 toc: false
 ---

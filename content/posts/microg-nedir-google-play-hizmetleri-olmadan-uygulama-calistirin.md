@@ -8,11 +8,11 @@ categories:
   - Mobil Dünya
 tags:
   - microg
-  - gmscore
+  - microg
   - android
   - gizlilik
   - acik-kaynak
-  - degoogled
+  - microg
   - revanced
 draft: false
 toc: false

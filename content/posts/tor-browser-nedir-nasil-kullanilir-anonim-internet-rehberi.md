@@ -13,7 +13,7 @@ tags:
   - anonimlik
   - gizlilik
   - siber-guvenlik
-  - ag-guvenligi
+  - guvenlik
   - dark-web
 ---
 # Tor Browser Nedir, Nasıl Kullanılır? Anonim İnternet Rehberi

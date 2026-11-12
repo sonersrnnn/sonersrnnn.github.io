@@ -12,7 +12,7 @@ tags:
   - kali-linux
   - wifi-kirma
   - evil-twin
-  - ag-guvenligi
+  - guvenlik
 draft: false
 toc: false
 ---

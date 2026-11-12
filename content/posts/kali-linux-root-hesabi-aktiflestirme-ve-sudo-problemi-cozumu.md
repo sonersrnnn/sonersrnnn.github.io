@@ -10,8 +10,8 @@ tags:
   - kali-linux
   - root
   - sudo
-  - yetkilendirme
-  - yonetici
+  - sudo
+  - sudo
 draft: false
 toc: false
 ---

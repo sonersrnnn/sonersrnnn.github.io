@@ -9,7 +9,7 @@ categories:
 tags:
   - Instagram
   - Gizlilik
-  - Anonim
+  - anonimlik
 draft: false
 toc: false
 ---

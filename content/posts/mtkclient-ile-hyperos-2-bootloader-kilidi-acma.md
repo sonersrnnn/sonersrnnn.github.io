@@ -11,7 +11,7 @@ tags:
   - hyperos-2
   - bootloader
   - rpmb
-  - mediatek
+  - mtkclient
   - arch-linux
   - android
 draft: false

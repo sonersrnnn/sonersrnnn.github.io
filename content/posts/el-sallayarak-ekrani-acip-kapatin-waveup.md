@@ -10,7 +10,7 @@ tags:
   - waveup
   - android
   - yakinlik-sensoru
-  - mobil
+  - android
   - acik-kaynak
 draft: false
 toc: false

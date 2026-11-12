@@ -10,9 +10,9 @@ categories:
   - Mobil Dünya
 tags:
   - cloudstream
-  - ucretsiz-dizi
-  - ucretsiz-film
-  - android-uygulama
+  - ucretsiz-film-dizi
+  - ucretsiz-film-dizi
+  - android
   - acik-kaynak
   - streaming
 ---

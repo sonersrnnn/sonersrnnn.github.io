@@ -13,7 +13,7 @@ tags:
   - qt5
   - xfce
   - linux
-  - qt5ct
+  - qt5
   - kvantum
   - kisisellestirme
 ---

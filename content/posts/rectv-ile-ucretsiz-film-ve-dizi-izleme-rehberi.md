@@ -9,7 +9,7 @@ categories:
 tags:
   - RecTV
   - Netflix
-  - Çevrimdışı
+  - Cevrimdisi
   - APK
 draft: false
 toc: false

@@ -11,9 +11,9 @@ categories:
 tags:
   - blog
   - ventoy
-  - usb
   - iso
-  - bootable
+  - iso
+  - iso
   - acik-kaynak
 ---
 # Ventoy ile Tek USB Sürücüde Sınırsız İşletim Sistemi Dünyası

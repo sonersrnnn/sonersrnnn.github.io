@@ -8,9 +8,9 @@ categories:
   - Pratik Çözümler
 tags:
   - adguard
-  - reklam-engelleyici
+  - reklam-engelleme
   - tarayici-eklentisi
-  - web-guvenligi
+  - guvenlik
   - gizlilik
 draft: false
 toc: false

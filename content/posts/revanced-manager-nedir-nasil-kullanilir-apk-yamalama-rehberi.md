@@ -13,7 +13,7 @@ tags:
   - revanced
   - youtube
   - apk-yamalama
-  - gmscore
+  - microg
   - android
 ---
 # ReVanced Manager Nedir, Nasıl Kullanılır? APK Yamalama Rehberi

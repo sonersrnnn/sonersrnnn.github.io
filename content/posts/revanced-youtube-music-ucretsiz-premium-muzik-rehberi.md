@@ -12,8 +12,8 @@ tags:
   - revanced-youtube-music
   - youtube-music
   - android
-  - reklamsiz-muzik
-  - premium-muzik
+  - muzik
+  - muzik
   - acik-kaynak
 ---
 # ReVanced YouTube Music: Ücretsiz Premium Müzik Rehberi

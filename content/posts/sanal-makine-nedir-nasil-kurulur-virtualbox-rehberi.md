@@ -11,7 +11,7 @@ categories:
 tags:
   - sanal-makine
   - virtualbox
-  - hypervisor
+  - sanal-makine
   - sizma-testleri
   - rehber
   - kurulum

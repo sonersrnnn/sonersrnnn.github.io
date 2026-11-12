@@ -14,7 +14,7 @@ tags:
   - android
   - linux
   - terminal
-  - cli
+  - terminal
   - python
   - acik-kaynak
 ---
