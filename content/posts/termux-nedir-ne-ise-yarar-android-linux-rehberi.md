@@ -7,8 +7,8 @@ draft: false
 toc: false
 cover: /img/termux-nedir-ne-ise-yarar-android-linux-rehberi/Temux1.jpg
 categories:
-  - 🐧 Linux
-  - 📱 Mobil Dünya
+  - Mobil Dünya
+  - Linux
 tags:
   - termux
   - android

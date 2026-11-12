@@ -5,7 +5,7 @@ slug: vpn-nedir-ve-kali-linux-openvpn-kurulumu
 description: VPN teknolojisinin çalışma mantığı ve Kali Linux üzerinde Vpnbook ile OpenVPN kullanarak güvenli tünel oluşturma rehberi.
 cover: /img/vpn-nedir-ve-kali-linux-openvpn-kurulumu/image.png
 categories:
-  - 🛡️ Siber Güvenlik
+  - Siber Güvenlik
 tags:
   - vpn
   - kali-linux

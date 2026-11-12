@@ -5,7 +5,7 @@ slug: visual-studio-nedir-ve-gelistirme-ortami-rehberi
 description: Microsoft Visual Studio IDE nedir? Desteklediği programlama dilleri, gelişmiş özellikleri ve yazılım geliştirme araçları hakkında kapsamlı rehber.
 cover: /img/visual-studio-nedir-ve-gelistirme-ortami-rehberi/image.png
 categories:
-  - 💻 Yazılım & Kodlama
+  - Yazılım & Kodlama
 tags:
   - IDE
   - Microsoft

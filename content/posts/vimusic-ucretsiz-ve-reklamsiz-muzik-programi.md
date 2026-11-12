@@ -7,7 +7,7 @@ draft: false
 toc: false
 cover: /img/vimusic-ucretsiz-ve-reklamsiz-muzik-programi/diyom-vimüzik.png
 categories:
-  - 📱 Mobil Dünya
+  - Mobil Dünya
 tags:
   - vimusic
   - android

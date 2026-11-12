@@ -7,7 +7,7 @@ draft: false
 toc: false
 cover: /img/visual-studio-nasil-kurulur-ve-c-sharp-ortami/img1.png
 categories:
-  - 💻 Yazılım & Kodlama
+  - Yazılım & Kodlama
 tags:
   - blog
   - visual-studio

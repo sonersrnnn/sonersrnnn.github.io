@@ -7,7 +7,7 @@ draft: false
 toc: false
 cover: /img/ventoy-incelemesi/ventoy.png
 categories:
-  - 🐧 Linux
+  - Linux
 tags:
   - blog
   - ventoy

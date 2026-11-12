@@ -5,7 +5,7 @@ slug: veracrypt-nedir-dosya-disk-sifreleme-rehberi
 description: VeraCrypt nedir, nasıl kullanılır? Ücretsiz ve açık kaynaklı dosya şifreleme programıyla verilerinizi AES ile koruyun. Adım adım kurulum ve kasa oluşturma rehberi.
 cover: /img/veracrypt-nedir-dosya-disk-sifreleme-rehberi/Vera1.png
 categories:
-  - 🐧 Linux
+  - Linux
 tags:
   - veracrypt
   - dosya-sifreleme
