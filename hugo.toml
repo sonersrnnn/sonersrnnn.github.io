@@ -17,7 +17,14 @@ enableGitInfo = false # true olursa sayfa tarihini Git commit'inden alır
 
 [params.solitude.extends]
   head = [
-    '''<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Diyom","alternateName":["Diyom Blog"],"url":"https://sonersrnnn.github.io/"}</script>'''
+    '''<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Diyom","alternateName":["Diyom Blog"],"url":"https://sonersrnnn.github.io/"}</script>''',
+    '''<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-5DPTMQCT"></script>
+       <script>
+         window.dataLayer = window.dataLayer || [];
+         function gtag(){dataLayer.push(arguments);}
+         gtag('js', new Date());
+       </script>
+    '''
   ]
 
 
