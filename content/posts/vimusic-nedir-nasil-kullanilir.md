@@ -44,7 +44,7 @@ ViMusic, kendi sunucularında müzik barındırmaz. Arka planda YouTube Music ka
 
 Resmi youtube-music uygulaması, ücretsiz planda kullanıcı deneyimini kısıtlayan pek çok sınırlama uygular. ViMusic bu sınırlamaları açık kaynak felsefesiyle ortadan kaldırır:
 
-1. **Reklamsız Deneyim:** Araya giren video ve ses reklamları olmadan kesintisiz müzik akışı. Tüm cihazınızda ve uygulamalarda sistem genelinde reklam engelleme için [AdAway](sonersrnnn.github.io/vimusic-nedir-nasil-kullanilir/) kullanabilirsiniz.
+1. **Reklamsız Deneyim:** Araya giren video ve ses reklamları olmadan kesintisiz müzik akışı. Tüm cihazınızda ve uygulamalarda sistem genelinde reklam engelleme için [AdAway]({{< ref "adaway-nedir-nasil-kullanilir" >}}) kullanabilirsiniz.
 2. **Arka Planda Çalma Özgürlüğü:** Telefonunuzu kilitlediğinizde veya başka bir uygulamaya geçtiğinizde müzik durmaz; bildirim paneli üzerinden tam kontrol sağlarsınız
 3. **Kaynak Verimliliği:** Kotlin ve modern Jetpack Compose arayüzü sayesinde hafif çalışır, pil tüketimini minimumda tutar.
 
