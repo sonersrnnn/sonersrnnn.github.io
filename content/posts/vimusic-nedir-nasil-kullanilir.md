@@ -18,7 +18,7 @@ cover: /img/vimusic-nedir-nasil-kullanilir/diyom-vimüzik.png
 
 ![ViMusic](/img/vimusic-nedir-nasil-kullanilir/diyom-vimüzik.png "vimusic nedir nasil kullanilir")
 
-Akıllı telefonlarda müzik dinlerken sürekli araya giren reklamlar, zorunlu premium abonelikler ve arka planda çalma kısıtlamaları kullanıcıları alternatif çözümlere yönlendiriyor. Özellikle [[blackhole-music]] projesinin telif gerekçesiyle kapanmasının ardından, Android ekosisteminde en çok öne çıkan açık kaynaklı çözümlerden biri **ViMusic** oldu.
+Akıllı telefonlarda müzik dinlerken sürekli araya giren reklamlar, zorunlu premium abonelikler ve arka planda çalma kısıtlamaları kullanıcıları alternatif çözümlere yönlendiriyor. Özellikle [blackhole-music]({{< ref "blackhole-muzik-programi-nedir-guvenli-alternatifler" >}}) projesinin telif gerekçesiyle kapanmasının ardından, Android ekosisteminde en çok öne çıkan açık kaynaklı çözümlerden biri **ViMusic** oldu.
 
 Bu rehberde; ViMusic uygulamasının ne olduğunu, hesap açmadan nasıl çalıştığını, gelişmiş ses özelliklerini ve güvenli kurulum adımlarını tüm detaylarıyla inceleyeceğiz.
 

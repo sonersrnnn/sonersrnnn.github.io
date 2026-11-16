@@ -1,21 +1,31 @@
 ---
 title: "Arch Linux Terminal Komutları: Kapsamlı ve Pratik Rehber"
 date: 2026-11-14
-slug: "arch-linux-terminal-komutlari"
-description: "Arch Linux terminal komutları rehberiyle pacman, AUR, systemd ve sistem yönetimi komutlarını öğrenin. Pratik kodlarla sisteminizi hemen hızlandırın."
-cover: img/arch-linux-terminal-komutlari/
-categories: 
-tags: [arch-linux, terminal, pacman, systemd, aur, linux-komutlari]
+slug: arch-linux-terminal-komutlari
+description: Arch Linux terminal komutları rehberiyle pacman, AUR, systemd ve sistem yönetimi komutlarını öğrenin. Pratik kodlarla sisteminizi hemen hızlandırın.
+cover: /img/arch-linux-terminal-komutlari/terminal.png
+categories:
+  - Linux
+tags:
+  - arch-linux
+  - terminal
+  - pacman
+  - systemd
+  - aur
+  - linux-komutlari
 draft: false
 toc: false
 ---
 
 # Arch Linux Terminal Komutları: Kapsamlı ve Pratik Rehber
+---
+![Pacman paket kaldırma ve Rns parametresi çıktısı](/img/arch-linux-terminal-komutlari/terminal.png "arch-linux-terminal-komutlari-pacman-paket-yonetimi")
 
+---
 **Arch Linux terminal komutları**, sisteminize tam hakimiyet kurmanızı sağlayan en temel ve vazgeçilmez araç takımıdır. Kullanıcıyı grafiksel kısıtlamalara mahkûm etmeyen ve doğrudan denetim yetkisi veren Arch Linux, komut satırı mimarisiyle öne çıkar. Birçok kullanıcı karmaşık komut dizilimleri ve sistem yönetimi karşısında çekinse de, temel kalıpları kavramak bu güçlü işletim sistemini zahmetsizce yönetmenizi sağlar. Bu kapsamlı rehberde; günlük işlerinizde ihtiyaç duyacağınız paket yönetiminden servis kontrollerine, sistem izlemeden dosya işlemlerine kadar en hayati **Arch Linux terminal komutları** derlemesini pratik örnekler ve tablolar eşliğinde bulacaksınız.
 
-<!-- Görsel Önerisi: Arch Linux terminal penceresinde pacman güncellemesi ve fastfetch çıktısı -->
-<!-- Alt Metin: arch-linux-terminal-komutlari-sistem-guncellemesi -->
+---
+![Arch Linux terminal penceresinde pacman güncellemesi ve fastfetch çıktısı](/img/arch-linux-terminal-komutlari/ArchLinuxTerminal.png "arch-linux-terminal-komutlari-sistem-guncellemesi")
 
 ---
 
@@ -48,8 +58,9 @@ Aşağıdaki tabloda günlük hayatta en sık başvurulan paket yönetimi komutl
 | `yay -S paket_adi`           | AUR yardımcısı (AUR helper) ile topluluk depolarından paket kurar.                      |
 | `makepkg -si`                | `PKGBUILD` dosyasını derler, bağımlılıkları tamamlar ve paketi pacman ile kurar.        |
 
-<!-- Görsel Önerisi: Pacman paket kaldırma ve Rns parametresi çıktısı -->
-<!-- Alt Metin: arch-linux-terminal-komutlari-pacman-paket-yonetimi -->
+---
+
+![/img/arch-linux-terminal-komutlari/kaldir.png "arch-linux-terminal-komutlari-pacman-paket-yonetimi"](/img/arch-linux-terminal-komutlari/kaldir.png "arch-linux-terminal-komutlari-pacman-paket-yonetimi")
 
 ---
 

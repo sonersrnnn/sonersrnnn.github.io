@@ -11,13 +11,18 @@ tags:
 categories:
   - Linux ve Açık Kaynak
 toc: true
+cover: /img/blackhole-muzik-programi-nedir-guvenli-alternatifler/blockhole.png
 ---
+# BlackHole Müzik Nedir? Proje Neden Kapandı ve Güvenli Alternatifler
+---
+![BlackHole müzik uygulaması arayüzü ](/img/blackhole-muzik-programi-nedir-guvenli-alternatifler/blockhole.png "BlackHole uygulama arayüzü")
 
+---
 Akıllı telefonlarımızda müzik dinlemek, artık devasa abonelik ücretlerine veya zorunlu reklamlara mahkûm olmak anlamına gelmiyor. Geçmişte popüler olan açık kaynaklı projelerden biri olan **BlackHole Müzik**, kullanıcılarına herhangi bir abonelik istemeden reklamsız ve yüksek kalitede müzik akışı sunmasıyla büyük bir kitle toplamıştı.
 
 Ancak günümüzde internette "BlackHole müzik programı nedir ve nasıl indirilir" araması yapan kullanıcıların karşısına çıkan bilgilerin çoğu eski ya da yanıltıcıdır. Bu rehberde; BlackHole'un çalışma mantığını, orijinal projenin neden kapandığını, internetteki sahte APK tuzaklarını ve güncel açık kaynaklı alternatifleri inceleyeceğiz.
 
----
+
 
 ## BlackHole Müzik Nedir? (Teknik Mimarisi)
 
@@ -31,8 +36,6 @@ BlackHole, geleneksel müzik çalarlardan farklı olarak kendi müzik arşivini 
 - **Çalma Listesi Senkronizasyonu:** Spotify çalma listelerini JSON formatında veya doğrudan bağlantı üzerinden içe aktarabilme.
 - **Özelleştirme:** Dahili ekolayzer, uyku zamanlayıcısı, şarkı sözü desteği ve tema seçenekleri.
 
----
-
 ## BlackHole Projesi Neden Kapandı? (DMCA ve Telif Hakları)
 
 Her açık kaynaklı ve hayatı kolaylaştıran projede olduğu gibi, BlackHole da hukuki ve teknik engellerle karşılaştı. 
@@ -40,9 +43,11 @@ Her açık kaynaklı ve hayatı kolaylaştıran projede olduğu gibi, BlackHole 
 1. **Telif Hakkı ve DMCA Baskısı:** Uygulamanın ticari müzik servislerinin telifli içeriklerini doğrudan akışa açması ve çevrimdışı indirmeye izin vermesi, hak sahiplerinin tepkisini çekti. Dijital Binyıl Telif Hakkı Kanunu (DMCA) bildirimleri sonrasında orijinal geliştiricinin (Sangwan5688) GitHub deposu erişime kapatıldı.
 2. **API Değişiklikleri ve Kararsızlık:** YouTube ve Spotify gibi platformlar API güvenliklerini sürekli günceller. BlackHole gibi merkezi olmayan projeler, bu güncellemeler karşısında sürekli yama yapmak zorundadır. Geliştirme durduğu için mevcut sürümler zamanla API hataları vermeye başladı.
 
-<!-- GORSEL: BlackHole uygulama arayüzü ve hata ekranı şeması. Dosya: /images/blackhole-arayuz-hata.webp | Alt Metin: BlackHole müzik uygulaması arayüzü ve API bağlantı hatası görseli -->
-
 ---
+
+| ![BlackHole uygulama arayüzü](/img/blackhole-muzik-programi-nedir-guvenli-alternatifler/1.png "BlackHole müzik uygulaması arayüzü ") |
+| ------------------------------------------------------------------------------------------------------------------------------------ |
+
 
 ## İnternetteki "BlackHole APK" İndirme Tuzakları ve Güvenlik Riskleri
 
@@ -53,8 +58,6 @@ Orijinal projenin geliştirilmesi durdurulup GitHub deposu kapatıldıktan sonra
 - **Kişisel Veri Hırsızlığı:** Modlu müzik uygulamaları kisvesi altında çalışan bu dosyalar, telefonunuzdaki depolama alanına, rehbere ve hesap çerezlerine erişim talep edebilir.
 
 > **Güvenlik Notu:** İnternette hiçbir zaman üçüncü taraf APK indirme sitelerinden (APKPure, APKMirror dışındaki rastgele bloglar vb.) müzik veya araç uygulaması indirmeyin. Açık kaynak dünyasında resmi kanal her zaman GitHub Releases veya F-Droid mağazasıdır.
-
----
 
 ## Güvenli ve Aktif Açık Kaynak Müzik İstemcileri Alternatifleri
 
