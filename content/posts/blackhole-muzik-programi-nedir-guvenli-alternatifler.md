@@ -3,7 +3,7 @@ title: BlackHole Müzik Nedir? Proje Neden Kapandı ve Güvenli Alternatifler
 slug: blackhole-muzik-programi-nedir-guvenli-alternatifler
 date: 2026-11-16
 lastmod: 2026-11-16
-draft: true
+draft: false
 description: BlackHole Müzik programı nedir, nasıl çalışır? Orijinal projenin DMCA nedeniyle kapanma süreci, sahte APK riskleri ve güvenli açık kaynak alternatifleri.
 tags:
   - linux-ve-acik-kaynak

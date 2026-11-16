@@ -113,8 +113,6 @@ Google, gelir modeli reklam yayıncılığına dayandığı için sistem genelin
 4. Çıkan Magisk / Superuser isteminde AdAway'e root yetkisi verin.
 5. "Filtreleri İndir ve Uygula" butonuna dokunun. İşlem tamamlandığında cihazınızı bir kez yeniden başlatın.
 
-<!-- GORSEL: AdAway kurulum aşamaları ve root / VPN seçim ekranı. Dosya: /images/adaway-kurulum-adimlari.webp | Alt Metin: AdAway Android uygulamasında kök erişimi ve yerel VPN kurulum adımları -->
-
 ---
 
 ## AdAway'in Sınırları: Neleri Engelleyemez?
