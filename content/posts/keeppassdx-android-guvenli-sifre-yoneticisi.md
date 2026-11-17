@@ -66,4 +66,12 @@ KeePassDX kasanız, sıfır bilgi mimarisiyle AES veya Argon2 algoritmaları kul
 ### KeePassDX ücretsiz mi ve reklam içerir mi?
 Evet, KeePassDX GPL-3.0 lisansına sahip tamamen açık kaynaklı ve ücretsiz bir şifre yöneticisidir. Uygulama içerisinde hiçbir reklam, izleyici (tracker) veya ücretli abonelik modeli barındırmaz. Kaynak kodları şeffaf bir şekilde herkesin denetimine açıktır ve tüm güvenlik özellikleri istisnasız tüm kullanıcılara tamamen ücretsiz olarak sunulmaktadır.
 
+## İlgili Yazılar
+
+- [Reklam engelleme ve gizlilik]({{< ref "adaway-nedir-nasil-kullanilir" >}})
+- [Kamera/mikrofon erişim kontrolü]({{< ref "safedot-telefon-kamerasi-ve-mikrofonu-kullanildiginda-uyarir" >}})
+- [VPN ile trafik şifreleme]({{< ref "protonvpn-revanced-nedir-ucretsiz-vpn-guclendir" >}})
+- [Disk şifreleme (bilgisayar)]({{< ref "veracrypt-nedir-dosya-disk-sifreleme-rehberi" >}})
+- [KeePassDX indirme kaynağı]({{< ref "f-droid-nedir-android-acik-kaynak-uygulama-magazasi" >}})
+
 ---

@@ -60,3 +60,10 @@ sudo apt-get upgrade
 ```
 
 Bu işlemlerin ardından paket bulunamadı hatası ortadan kalkacak ve sisteminiz sorunsuz güncellenecektir.
+
+## İlgili Yazılar
+
+- [Kali Linux kurulum ve temel yapılandırma]({{< ref "kali-linux-nedir-ve-ikinci-isletim-sistemi-kurulumu" >}})
+- [Linux dağıtımları ve paket yönetimi temelleri]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}})
+- [Kali root hesabı ve sudo yapılandırması]({{< ref "kali-linux-root-hesabi-aktiflestirme-ve-sudo-problemi-cozumu" >}})
+- [VirtualBox'ta Kali Linux kurulumu]({{< ref "kali-linux-sanal-makineye-nasil-kurulur-virtualbox-rehberi" >}})

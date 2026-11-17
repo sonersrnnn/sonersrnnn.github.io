@@ -36,3 +36,11 @@ Orijinal Telegram uygulaması açık kaynaklı ekosistemde yer alsa da, resmi da
 ## Karşıt-Özellik: Özgür Olmayan Ağ
 
 Telegram'ın istemci tarafında özgürlükçü alternatifler geliştirilebilmesine rağmen, platformun sunucu tarafı özel mülk (proprietary) yazılımlarla çalışmaktadır. Bu durum, tam anlamıyla merkeziyetsiz ve uçtan uca özgür bir ağ mimarisi arayanlar için bir kısıtlama (karşıt-özellik) olarak değerlendirilmektedir.
+
+## İlgili Yazılar
+
+- [Instagram gizlilik rehberi]({{< ref "instagram-hikayelerine-ve-videolara-gizlice-bakma-rehberi" >}})
+- [Sosyal medya yazı stilleri]({{< ref "instagram-ve-twitter-sekilli-yazi-yazma-rehberi" >}})
+- [Kamera/mikrofon erişim kontrolü]({{< ref "safedot-telefon-kamerasi-ve-mikrofonu-kullanildiginda-uyarir" >}})
+- [Şifre ve hesap güvenliği]({{< ref "keeppassdx-android-guvenli-sifre-yoneticisi" >}})
+- [VPN ile trafik şifreleme]({{< ref "protonvpn-revanced-nedir-ucretsiz-vpn-guclendir" >}})

@@ -58,3 +58,10 @@ Windows ekosisteminde çalışan grafik arayüzlü (GUI) programlar geliştirmek
 Komut satırı (CMD) tabanlı araçlar veya sürekli tekrar eden kod bloklarını tek bir yerde toplamak için **DLL (Dynamic Link Library - Dinamik Kod Kütüphanesi)** dosyaları yazabilir, projelerinizde kod tekrarını önleyebilirsiniz.
 
 - - -
+
+## İlgili Yazılar
+
+- [Visual Studio C# kurulum rehberi]({{< ref "visual-studio-nasil-kurulur-ve-c-sharp-ortami" >}})
+- [Linux'ta .NET geliştirme]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}})
+- [Android'de terminal ile kodlama]({{< ref "termux-nedir-ne-ise-yarar-android-linux-rehberi" >}})
+- [Sanal makinede geliştirme ortamı]({{< ref "sanal-makine-nedir-nasil-kurulur-virtualbox-rehberi" >}})

@@ -59,11 +59,17 @@ Aşağıdaki tablo, standart uygulama mağazası ile F-Droid arasındaki felsefi
 F-Droid kullanmanın kullanıcılara sunduğu ayrıcalıklar sadece ücretsiz yazılım indirmekle sınırlı değildir. Platformun sunduğu öne çıkan avantajlar şunlardır:
 
 1. **Bağımsız Topluluk Derlemesi:** F-Droid ekibi, geliştiricilerin gönderdiği hazır APK'ları kabul etmek yerine kaynak kodları sıfırdan kendi sunucularında derler. Bu yöntem, geliştiricinin bile sonradan koda arka kapı eklemesini engeller.
-2. **Kapsamlı Gizlilik Koruyucuları:** Reklamları kökten engelleyen [AdAway Nedir? Android İçin Açık Kaynaklı Reklam Engelleyici](https://sonersrnnn.github.io/adaway-nedir-android-icin-acik-kaynakli-reklam-engelleyici/) gibi kök dizin seviyesinde güvenlik sağlayan araçlara F-Droid üzerinden doğrudan ulaşabilirsiniz.
-3. **Şifre ve Kimlik Güvenliği:** Hesap bilgilerinizi ve parolalarınızı cihazınızda yerel olarak şifreleyen [KeePassDX: Android Güvenli Şifre Yöneticisi Rehberi](https://sonersrnnn.github.io/keeppassdx-android-guvenli-sifre-yoneticisi/) gibi açık kaynak şifre yöneticilerini güvenle indirebilirsiniz.
-4. **YouTube İçin Özgür İstemciler:** Google servislerine bağımlı olmadan video izlemenizi sağlayan [NewPipe: YouTube Premium Özelliklerini Ücretsiz Kullanma Rehberi](https://sonersrnnn.github.io/newpipe-youtube-premium-ucretsiz-kullanim-rehberi/) gibi güçlü medya istemcileri F-Droid'in en popüler uygulamaları arasındadır.
+2. **Kapsamlı Gizlilik Koruyucuları:** Reklamları kökten engelleyen [AdAway rehberi]({{< ref "adaway-nedir-nasil-kullanilir" >}}) gibi kök dizin seviyesinde güvenlik sağlayan araçlara F-Droid üzerinden doğrudan ulaşabilirsiniz.
+3. **Şifre ve Kimlik Güvenliği:** Hesap bilgilerinizi ve parolalarınızı cihazınızda yerel olarak şifreleyen [KeePassDX şifre yöneticisi]({{< ref "keeppassdx-android-guvenli-sifre-yoneticisi" >}}) gibi açık kaynak şifre yöneticilerini güvenle indirebilirsiniz.
+4. **YouTube İçin Özgür İstemciler:** Google servislerine bağımlı olmadan video izlemenizi sağlayan [NewPipe YouTube istemcisi]({{< ref "newpipe-youtube-premium-ucretsiz-kullanim-rehberi" >}}) gibi güçlü medya istemcileri F-Droid'in en popüler uygulamaları arasındadır.
 
 - - -
+
+## İlgili Yazılar
+
+- [Linux ve açık kaynak ekosistemi genel rehberi]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}})
+- [Sistem geneli reklam engelleme (F-Droid'da mevcut)]({{< ref "adaway-nedir-nasil-kullanilir" >}})
+- [Google Play Hizmetleri alternatifi (F-Droid'da mevcut)]({{< ref "microg-nedir-google-play-hizmetleri-olmadan-uygulama-calistirin" >}})
 
 ## Anti-Özellikler (Anti-Features) Nedir ve Nasıl Çalışır?
 

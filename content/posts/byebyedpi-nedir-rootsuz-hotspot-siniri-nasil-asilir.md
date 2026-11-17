@@ -77,3 +77,11 @@ Artık ekranınızda VPN bağlıymış gibi bir simge görünecektir; ancak hiç
 ## Sonuç
 
 ByeByeDPI, engellemelerini aşmak ve operatörlerin haksız hotspot kotalarından kurtulmak için root gerektirmeyen son derece güçlü ve hafif bir çözümdür. Bilgisayarınızı veya tabletinizi mobil veriniz üzerinden sınırlara takılmadan güvenle kullanabilirsiniz.
+
+## İlgili Yazılar
+
+- [VPN ile trafik şifreleme ve DPI bypass]({{< ref "protonvpn-revanced-nedir-ucretsiz-vpn-guclendir" >}})
+- [Root ile sistem geneli reklam/DPI engelleme]({{< ref "adaway-nedir-nasil-kullanilir" >}})
+- [Android root ile tam sistem kontrolü]({{< ref "android-root-nasil-yapilir-magisk-ile-adim-adim-rehber" >}})
+- [Android'de Linux terminal (ağ araçları)]({{< ref "termux-nedir-ne-ise-yarar-android-linux-rehberi" >}})
+- [Gizlilik ve erişim kontrolü]({{< ref "safedot-telefon-kamerasi-ve-mikrofonu-kullanildiginda-uyarir" >}})

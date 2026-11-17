@@ -9,7 +9,7 @@ tags:
   - linux-ve-acik-kaynak
   - gizlilik-ve-guvenlik
 categories:
-  - Linux ve Açık Kaynak
+  - Mobil Dunya
 toc: true
 cover: /img/vimusic-nedir-nasil-kullanilir/diyom-vimüzik.png
 ---
@@ -93,3 +93,10 @@ Açık kaynaklı müzik istemcileri ekosisteminde her uygulamanın felsefesi far
 ## Sonuç ve Özet
 
 ViMusic, hesapsız ve gizlilik odaklı müzik dinlemek isteyen Android kullanıcıları için en güvenilir sığınaklardan biridir. Akıllı önbellek sistemi, ses normalleştirme yetenekleri ve sıfır telemetri politikasıyla minimalist bir müzik deneyimi sunar. Kurulum için her zaman GitHub veya F-Droid resmi kanallarını tercih etmeyi unutmayın.
+
+## İlgili Yazılar
+
+- [ReVanced ana rehber (Google hesaplı YouTube Music)]({{< ref "revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi" >}})
+- [ReVanced YouTube Music]({{< ref "revanced-youtube-music-ucretsiz-premium-muzik-rehberi" >}})
+- [Metrolist (Google hesaplı YouTube Music)]({{< ref "metrolist-nedir-youtube-music-alternatifi-android" >}})
+- [NewPipe (bağımsız video/müzik)]({{< ref "newpipe-youtube-premium-ucretsiz-kullanim-rehberi" >}})

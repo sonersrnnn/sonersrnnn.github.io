@@ -80,4 +80,12 @@ Piyasada pek çok müzik uygulaması varken Metrolist'i özel kılan bir kaç kr
 
 Metrolist, bir müzik istemcisinden çok daha fazlası; müzik deneyiminiz üzerinde tam kontrol sahibi olmanızı sağlayan bir özgürlük aracıdır. Eğer siz de reklamlarla bölünmeyen, arka planda özgürce çalabilen ve tamamen size özel tasarlanmış bir YouTube Music deneyimi arıyorsanız, Metrolist kesinlikle Android cihazınızda bulunması gereken uygulamaların başında geliyor.
 
+## İlgili Yazılar
+
+- [ReVanced YouTube Music (resmi hesapla senkronizasyon)]({{< ref "revanced-youtube-music-ucretsiz-premium-muzik-rehberi" >}})
+- [NewPipe (bağımsız video/müzik istemcisi)]({{< ref "newpipe-youtube-premium-ucretsiz-kullanim-rehberi" >}})
+- [ViMusic (yerel kütüphane odaklı müzik çalar)]({{< ref "vimusic-nedir-nasil-kullanilir" >}})
+- [ReVanced ana rehber]({{< ref "revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi" >}})
+- [Metrolist indirme kaynağı]({{< ref "f-droid-nedir-android-acik-kaynak-uygulama-magazasi" >}})
+
 ---

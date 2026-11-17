@@ -32,7 +32,7 @@ Sanal makine, programları çalıştırmak ve uygulamaları dağıtmak için fiz
 ## Temel Kullanım Alanları Nelerdir?
 
 * **Yazılım ve Güvenlik Testleri:** Şüpheli yazılımları, bilinmeyen dosyaları veya sızma testlerini güvenli bir alanda denemek.
-* **Farklı İşletim Sistemlerini Deneyimleme:** Linux dağıtımlarını veya farklı Windows sürümlerini mevcut sistemi bozmadan test etmek.
+* **Farklı İşletim Sistemlerini Deneyimleme:** Linux dağıtımlarını veya farklı Windows sürümlerini mevcut sistemi bozmadan test etmek. [Linux ve açık kaynak ekosistemi]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}}) konusundaki dağıtımları sanal makinede denemek ideal bir başlangıçtır.
 * **Sunucu ve Bulut Altyapıları:** Fiziksel sunucu maliyetlerini düşürmek amacıyla tek bir donanımda çok sayıda sanal sunucu barındırmak.
 
 ## Adım Adım Oracle VM VirtualBox Kurulumu
@@ -47,6 +47,13 @@ En popüler ve kullanıcı dostu sanallaştırma araçlarından biri olan Oracle
 6. **Tamamlama:** İlerleme çubuğu dolduktan sonra **Bitir** butonuna basarak VirtualBox'ı başarıyla kurmuş olursunuz.
 
 Artık dilediğiniz ISO dosyasını ekleyerek ilk sanal makinenizi oluşturmaya başlayabilirsiniz!
+
+## İlgili Yazılar
+
+- [Linux dağıtımları ve VirtualBox'ta deneme]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}})
+- [Kali Linux sanal makine kurulumu adım adım]({{< ref "kali-linux-nedir-ve-ikinci-isletim-sistemi-kurulumu" >}})
+- [Çoklu ISO yazdırma aracı (sanal makine testleri için)]({{< ref "ventoy-incelemesi" >}})
+- [VirtualBox'ta Kali Linux özel kurulum]({{< ref "kali-linux-sanal-makineye-nasil-kurulur-virtualbox-rehberi" >}})
 
 ---
 

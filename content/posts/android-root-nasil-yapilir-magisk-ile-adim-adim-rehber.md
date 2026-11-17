@@ -4,8 +4,8 @@ date: 2026-11-14
 slug: android-root-nasil-yapilir-magisk-ile-adim-adim-rehber
 description: Android root nasıl yapılır? Magisk ile bootloader kilidi açma, boot.img yamalama ve adım adım rootlama rehberi. Riskler, faydalar ve Magisk modülleri.
 categories:
-  - Linux ve Açık Kaynak
-  - Mobil
+  - Linux
+  - Mobil Dunya
 tags:
   - android
   - root
@@ -37,6 +37,13 @@ Android, Linux çekirdeği üzerine inşa edilmiş bir işletim sistemidir. Linu
 
 Normal şartlarda birçok uygulamanın ulaşamadığı `/system`, `/data` ve `/vendor` gibi klasörlere root yetkisiyle serbestçe erişebilirsiniz.
 
+## İlgili Yazılar
+
+- [Linux ve açık kaynak ekosistemi (Custom ROM'lar için)]({{{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}})
+- [Root ile sistem geneli reklam engelleme]({{{< ref "adaway-nedir-nasil-kullanilir" >}})
+- [Root ile ReVanced gelişmiş özellikler]({{{< ref "revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi" >}})
+- [Root'suz Linux terminal alternatifi]({{{< ref "termux-nedir-ne-ise-yarar-android-linux-rehberi" >}})
+
 ---
 
 ## Android Root Atmanın Faydaları
@@ -59,7 +66,7 @@ Root almanın en büyük avantajlarından biri **Magisk modül ekosistemidir.** 
 CPU hızını aşırtabilir (overclock) veya düşürerek pil tasarrufu (underclock) yapabilirsiniz. Kernel ayar uygulamalarıyla pil ömrünüzü %20-30 oranında uzatmak mümkündür.
 
 ### Custom ROM Özgürlüğü
-LineageOS, GrapheneOS veya PixelExperience gibi özel ROM'lar kurabilirsiniz. Bu sayede üretici desteği biten eski cihazınız yıllarca güncel Android sürümleriyle çalışmaya devam edebilir. [Linux Nedir? Açık Kaynak Kodlu İşletim Sistemi ve Popüler Dağıtımlar](https://sonersrnnn.github.io/linux-nedir-ve-acik-kaynak-ekosistemi.html) yazımızda açık kaynak dünyasının bu ruhunu daha geniş kapsamda ele aldık.
+LineageOS, GrapheneOS veya PixelExperience gibi özel ROM'lar kurabilirsiniz. Bu sayede üretici desteği biten eski cihazınız yıllarca güncel Android sürümleriyle çalışmaya devam edebilir. [Linux ve açık kaynak ekosistemi]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}}) yazımızda açık kaynak dünyasının bu ruhunu daha geniş kapsamda ele aldık.
 
 ### Kapsamlı Yedekleme
 Root yetkisiyle tüm uygulamaların verilerini (giriş bilgileri, oyun ilerlemeleri dahil) yedekleyebilirsiniz. Normal Android yedeklemeleri bu verilere erişemez.
@@ -286,9 +293,10 @@ Yeni sürümün `boot.img`'sini Magisk ile tekrar yamalayıp flashlayın. Bu her
 
 Root yetkisini en verimli şekilde kullanmak için bazı araçlarla birleştirmenizi öneririz:
 
-- **[AdAway](https://sonersrnnn.github.io/adaway-nedir-nasil-kullanilir):** Root erişimiyle sistem geneli reklam engelleme, tüm uygulamalarda reklamsız deneyim
-- **[MTKClient ile HyperOS 2 Bootloader Kilidi Açma](https://sonersrnnn.github.io/mtkclient-ile-hyperos-2-bootloader-kilidi-acma):** MediaTek işlemcili cihazlarda bootloader kilidini açma rehberi
-- **[ReVanced YouTube](https://sonersrnnn.github.io/revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi-indir):** Root ile birlikte çalışan gelişmiş YouTube modu
+- [Root erişimiyle sistem geneli reklam engelleme]({{< ref "adaway-nedir-nasil-kullanilir" >}})
+- [MediaTek cihazlarda bootloader kilidi açma]({{< ref "mtkclient-ile-hyperos-2-bootloader-kilidi-acma" >}})
+- [Root ile ReVanced gelişmiş özellikler]({{< ref "revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi" >}})
+- [El hareketiyle ekran açıp kapatma]({{< ref "el-sallayarak-ekrani-acip-kapatin-waveup" >}})
 
 ---
 

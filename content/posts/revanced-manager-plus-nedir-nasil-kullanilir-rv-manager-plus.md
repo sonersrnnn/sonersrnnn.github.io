@@ -28,7 +28,7 @@ tags:
 
 **ReVanced Manager Plus (RV Manager +)**, ReVanced ekosistemindeki uygulamaları ve diğer popüler modifiye APK paketlerini indirme, yükleme ve sürüm güncellemelerini takip etme konusunda hepsi bir arada (all-in-one) çözüm sunan yeni nesil bir Android yöneticisidir. Üretimi durdurulan eski Vanced Manager'a kıyasla çok daha modern, güvenli ve hafif bir mimari üzerine inşa edilmiştir.
 
-Daha önce incelediğimiz [ReVanced YouTube Nedir? Özellikleri ve Kullanım Rehberi](https://sonersrnnn.github.io/revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi-indir/) makalemizde aktardığımız gelişmiş oynatma özellikleri, RV Manager + sayesinde tek bir dokunuşla cihazınıza kurulabilir hale gelmektedir.
+Daha önce incelediğimiz [ReVanced ana rehber]({{< ref "revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi" >}}) makalemizde aktardığımız gelişmiş oynatma özellikleri, RV Manager + sayesinde tek bir dokunuşla cihazınıza kurulabilir hale gelmektedir.
 
 - - -
 
@@ -42,7 +42,7 @@ RV Manager +, kullanıcılara klasik yama araçlarının ötesinde bir konfor su
 * **Hafif ve Reklamsız Deneyim:** Cihaz belleğinde minimum yer kaplar ve kesinlikle üçüncü taraf reklam veya can sıkıcı bildirimler barındırmaz.
 * **Gelişmiş Güvenlik:** revanced.net ve aktif topluluk ekibi tarafından sürekli denetlenen güvenli paketler sunar.
 
-Cihazınızdaki uygulamaları harici olarak yedeklemek veya APK dosyalarını incelemek isterseniz, [APK Extractor ile Yüklü Uygulamalardan APK Alma Rehberi](https://sonersrnnn.github.io/apk-extractor-ile-yuklu-uygulamalardan-apk-nasil-alinir/) yöntemlerinden de faydalanabilirsiniz.
+Cihazınızdaki uygulamaları harici olarak yedeklemek veya APK dosyalarını incelemek isterseniz, [APK Extractor rehberi]({{< ref "apk-extractor-ile-yuklu-uygulamalardan-apk-nasil-alinir" >}}) yöntemlerinden de faydalanabilirsiniz.
 
 - - -
 
@@ -83,7 +83,15 @@ RV Manager + ile modifiye edilmiş uygulamaları cihazınıza yüklemek son dere
 
 Yamalanmış YouTube uygulamalarında oturum açabilmek için microG/GmsCore servisinin yüklü olması şarttır. RV Manager +, kurulum esnasında GmsCore eksikliğini algılayarak tek tıkla indirmenizi sağlar. Kurulumun ardından pil optimizasyonunu kapatıp Google hesabınızla giriş yapabilirsiniz.
 
-Eğer Google hesaplarıyla hiç uğraşmadan, arka planda tamamen bağımsız ve gizlilik odaklı bir medya deneyimi isterseniz, [NewPipe: YouTube Premium Özelliklerini Ücretsiz Kullanma Rehberi](https://sonersrnnn.github.io/newpipe-youtube-premium-ucretsiz-kullanim-rehberi/) alternatifini de değerlendirebilirsiniz.
+Eğer Google hesaplarıyla hiç uğraşmadan, arka planda tamamen bağımsız ve gizlilik odaklı bir medya deneyimi isterseniz, [NewPipe YouTube istemcisi]({{< ref "newpipe-youtube-premium-ucretsiz-kullanim-rehberi" >}}) alternatifini de değerlendirebilirsiniz.
+
+## İlgili Yazılar
+
+- [ReVanced ana rehber (Pillar)]({{< ref "revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi" >}})
+- [Standart ReVanced Manager]({{< ref "revanced-manager-nedir-nasil-kullanilir-apk-yamalama-rehberi" >}})
+- [YouTube Music için ReVanced]({{< ref "revanced-youtube-music-ucretsiz-premium-muzik-rehberi" >}})
+- [microG / GmsCore kurulumu]({{< ref "microg-nedir-google-play-hizmetleri-olmadan-uygulama-calistirin" >}})
+- [Bağımsız YouTube istemcisi]({{< ref "newpipe-youtube-premium-ucretsiz-kullanim-rehberi" >}})
 
 - - -
 

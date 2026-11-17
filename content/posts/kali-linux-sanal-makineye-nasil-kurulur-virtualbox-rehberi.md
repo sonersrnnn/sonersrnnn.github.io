@@ -54,3 +54,11 @@ Kali Linux'u sanal makinede çalıştırmak için öncelikle bir sanallaştırma
 7. Önerilen varsayılan masaüstü paketlerini seçerek kurulumu sonlandırın ve GRUB önyükleyicisini ana sürücüye (`/dev/sda`) kurun.
 
 Kurulum tamamlandıktan sonra Kali Linux sanal makineniz kullanıma hazır olacaktır!
+
+## İlgili Yazılar
+
+- [Kali Linux dual boot kurulum ve genel rehber]({{< ref "kali-linux-nedir-ve-ikinci-isletim-sistemi-kurulumu" >}})
+- [Linux ve VirtualBox temelleri]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}})
+- [Sanal makine ve VirtualBox detaylı kurulum]({{< ref "sanal-makine-nedir-nasil-kurulur-virtualbox-rehberi" >}})
+- [Kali paket depoları ve apt yönetimi]({{< ref "kali-linux-paket-bulunamadi-hatasi-ve-sources-list-cozumu" >}})
+- [Kali root hesabı ve sudo yapılandırması]({{< ref "kali-linux-root-hesabi-aktiflestirme-ve-sudo-problemi-cozumu" >}})

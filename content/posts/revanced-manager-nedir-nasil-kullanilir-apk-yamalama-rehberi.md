@@ -99,7 +99,16 @@ Yamalanan YouTube uygulamasını açtığınızda ekranda *"GmsCore yüklü değ
 2. GmsCore uygulamasını açın ve **Battery Optimization (Pil Optimizasyonu)** ayarını kapatın. Bu adım bildirimlerin ve arka plan bağlantısının kesilmemesi için gereklidir.
 3. Artık yamaladığınız YouTube ReVanced uygulamasını açabilir, hesap simgesine dokunarak Google hesabınızla güvenle oturum açabilirsiniz.
 
-Eğer harici Google servisleri olmadan alternatif ve bağımsız bir YouTube deneyimi arıyorsanız, [NewPipe: YouTube Premium Özelliklerini Ücretsiz Kullanma Rehberi](https://diyom.blogspot.com/2026/10/newpipe-youtube-premium-ucretsiz-kullanim-rehberi.html) içeriğimizdeki bağımsız oynatıcıyı da inceleyebilirsiniz.
+Eğer harici Google servisleri olmadan alternatif ve bağımsız bir YouTube deneyimi arıyorsanız, [NewPipe YouTube istemcisi]({{< ref "newpipe-youtube-premium-ucretsiz-kullanim-rehberi" >}}) içeriğimizdeki bağımsız oynatıcıyı da inceleyebilirsiniz.
+
+## İlgili Yazılar
+
+- [ReVanced ana rehber (Pillar)]({{< ref "revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi" >}})
+- [microG / GmsCore kurulumu ve hesap girişi]({{< ref "microg-nedir-google-play-hizmetleri-olmadan-uygulama-calistirin" >}})
+- [YouTube Music için ReVanced]({{< ref "revanced-youtube-music-ucretsiz-premium-muzik-rehberi" >}})
+- [Gelişmiş arayüzlü yama aracı]({{< ref "revanced-manager-plus-nedir-nasil-kullanilir-rv-manager-plus" >}})
+- [Mevcut uygulamalardan APK alma]({{< ref "apk-extractor-ile-yuklu-uygulamalardan-apk-nasil-alinir" >}})
+- [Bağımsız YouTube istemcisi]({{< ref "newpipe-youtube-premium-ucretsiz-kullanim-rehberi" >}})
 
 - - -
 

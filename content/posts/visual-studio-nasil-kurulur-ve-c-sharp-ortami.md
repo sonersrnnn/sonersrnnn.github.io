@@ -54,3 +54,11 @@ Installer kurulumu tamamlandıktan sonra karşınıza farklı geliştirme alanla
 Üst sekmeden **Dil Paketleri** bölümüne giderek varsayılan Türkçe dilinin yanı sıra **İngilizce** dil paketini de seçebilirsiniz (yazılım dünyasında terimlere aşina olmak için İngilizce kullanımı önerilir). Ardından sağ alt köşedeki **Yükle** butonuna basarak indirme ve kurulum işlemini başlatın. İnternet hızınıza bağlı olarak bu işlem birkaç dakika sürebilir.
 
 - - -
+
+## İlgili Yazılar
+
+- [C# programlama dili neler yapılabilir]({{< ref "c-sharp-programlama-diliyle-neler-yapilabilir" >}})
+- [Linux'ta .NET geliştirme (VS Code / Rider)]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}})
+- [Android'de terminal ile kodlama]({{< ref "termux-nedir-ne-ise-yarar-android-linux-rehberi" >}})
+- [Sanal makinede Windows + Visual Studio]({{< ref "sanal-makine-nedir-nasil-kurulur-virtualbox-rehberi" >}})
+- [Visual Studio Nedir ve Geliştirme Ortamı Rehberi]({{< ref "visual-studio-nedir-ve-gelistirme-ortami-rehberi" >}})

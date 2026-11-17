@@ -30,7 +30,7 @@ Geliştirilmesi durdurulan efsanevi YouTube Vanced projesinin mirasını devrala
 
 ReVanced YouTube Music, resmi YouTube Music uygulamasının açık kaynak topluluğu tarafından modüler yamalarla güçlendirilmiş, telif haklarına ve kullanıcı gizliliğine saygılı modifiye edilmiş halidir. Orijinal uygulamanın çekirdek kod yapısını korurken, kullanıcı deneyimini baltalayan ticari kısıtlamaları tamamen bertaraf eder.
 
-Geliştiriciler, hazır değiştirilmiş güvensiz APK dosyaları dağıtmak yerine kullanıcıların resmi APK dosyalarını kendi cihazlarında güvenle yamalamasına imkan tanır. Bu sayede cihazınıza üçüncü taraf casus yazılımların bulaşma riski ortadan kalkar. Tıpkı video tarafında popülerlik kazanan [ReVanced YouTube Nedir? Özellikleri ve Kullanım Rehberi](https://diyom.blogspot.com/2026/10/revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi-indir.html) çalışmasında olduğu gibi, müzik tarafında da aynı kararlı yama altyapısı tercih edilir.
+Geliştiriciler, hazır değiştirilmiş güvensiz APK dosyaları dağıtmak yerine kullanıcıların resmi APK dosyalarını kendi cihazlarında güvenle yamalamasına imkan tanır. Bu sayede cihazınıza üçüncü taraf casus yazılımların bulaşma riski ortadan kalkar. Tıpkı video tarafında popülerlik kazanan [ReVanced ana rehber]({{< ref "revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi" >}}) çalışmasında olduğu gibi, müzik tarafında da aynı kararlı yama altyapısı tercih edilir.
 
 - - -
 
@@ -62,7 +62,7 @@ Aşağıdaki karşılaştırma tablosu, resmi YouTube Music ücretsiz katmanı i
 | **Arayüz Reklamlarını Gizleme**    | ❌ Gizlenemez                   | ✔️ Tam Özelleştirme        | ✔️ Reklamsız          |
 | **Root Gereksinimi**               | Gerektirmez                    | **Rootsuz Kurulum**        | Gerektirmez           |
 
-Eğer resmi altyapıya alternatif tamamen hafif ve bağımsız üçüncü taraf bir müzik çalar arıyorsanız, yerel kütüphane odaklı [ViMusic ile Ücretsiz ve Reklamsız Müzik Keyfi](https://diyom.blogspot.com/2026/10/vimusic-ucretsiz-ve-reklamsiz-muzik-programi.html) veya modern Material 3 tasarımlı [Metrolist: YouTube Music Alternatifi Özgür Android İstemcisi](https://diyom.blogspot.com/2026/10/metrolist-nedir-youtube-music-alternatifi-android.html) çözümlerini de deneyebilirsiniz. Ancak resmi YouTube hesabınızla tam uyum istiyorsanız ReVanced tartışmasız tek seçenektir.
+Eğer resmi altyapıya alternatif tamamen hafif ve bağımsız üçüncü taraf bir müzik çalar arıyorsanız, yerel kütüphane odaklı [ViMusic müzik çalar]({{< ref "vimusic-nedir-nasil-kullanilir" >}}) veya modern Material 3 tasarımlı [Metrolist YouTube Music istemcisi]({{< ref "metrolist-nedir-youtube-music-alternatifi-android" >}}) çözümlerini de deneyebilirsiniz. Ancak resmi YouTube hesabınızla tam uyum istiyorsanız ReVanced tartışmasız tek seçenektir.
 
 - - -
 
@@ -78,6 +78,15 @@ ReVanced YouTube Music kurulumu root yetkisi gerektirmez ve Android cihazınıza
 4. **Yükleme ve Yetkilendirme:** Oluşturulan yeni paketi yükleyin. İlk açılışta Google hesabınızla giriş yaparak çalma listelerinizi, favori sanatçılarınızı ve müzik geçmişinizi anında senkronize edin.
 
 - - -
+
+## İlgili Yazılar
+
+- [ReVanced ana rehber (Pillar)]({{< ref "revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi" >}})
+- [Standart ReVanced Manager]({{< ref "revanced-manager-nedir-nasil-kullanilir-apk-yamalama-rehberi" >}})
+- [Gelişmiş arayüzlü yama aracı]({{< ref "revanced-manager-plus-nedir-nasil-kullanilir-rv-manager-plus" >}})
+- [microG / GmsCore kurulumu]({{< ref "microg-nedir-google-play-hizmetleri-olmadan-uygulama-calistirin" >}})
+- [Bağımsız müzik çalar]({{< ref "vimusic-nedir-nasil-kullanilir" >}})
+- [YouTube Music alternatifi]({{< ref "metrolist-nedir-youtube-music-alternatifi-android" >}})
 
 ![](/img/revanced-youtube-music-ucretsiz-premium-muzik-rehberi/revendecmusic.jpeg)
 

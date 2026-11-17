@@ -24,7 +24,7 @@ tags:
 
 GitHub, **Git** adlı versiyon kontrol sistemi üzerine inşa edilmiş bir web platformudur. Microsoft'a ait olan bu platform, dünya genelinde 100 milyonu aşkın geliştiriciyi ve milyonlarca açık kaynak projeyi bünyesinde barındırmaktadır.
 
-Bunu şöyle düşünün: Nasıl Google Drive belgelerinizi bulutta saklıyor ve paylaşmanızı sağlıyorsa, GitHub de **kodlarınızı bulutta saklar, değişiklik geçmişinizi kaydeder ve ekibinizle birlikte çalışmanızı kolaylaştırır**. Ancak GitHub bunun çok ötesinde özellikler sunar.
+Bunu şöyle düşünün: Nasıl Google Drive belgelerinizi bulutta saklıyor ve paylaşmanızı sağlıyorsa, GitHub de **kodlarınızı bulutta saklar, değişiklik geçmişinizi kaydeder ve ekibinizle birlikte çalışmanızı kolaylaştırır**. Günümüzde GitHub sadece kaynak kod depolamakla kalmaz; [Komi Store Nedir? GitHub'dan Direkt APK Kurulum Rehberi]({{{< ref "komi-store-nedir-githubdan-direkt-apk-kurulum-rehberi" >}}) gibi araçlar sayesinde doğrudan APK dağıtımı için de bir merkez haline gelmiştir. Ancak GitHub bunun çok ötesinde özellikler sunar.
 
 - - -
 
@@ -307,3 +307,11 @@ GitHub, modern yazılım geliştirmenin merkezinde yer alan vazgeçilmez bir pla
 Kod yazmayı yeni öğreniyor olun ya da deneyimli bir geliştirici olun — GitHub profilinizi oluşturmak ve aktif tutmak kariyerinize değer katan en önemli adımlardan biridir.
 
 - - -
+
+## İlgili Yazılar
+
+- [Visual Studio Nedir ve Geliştirme Ortamı]({{< ref "visual-studio-nedir-ve-gelistirme-ortami-rehberi" >}})
+- [Visual Studio Nasıl Kurulur ve C# Ortamı]({{< ref "visual-studio-nasil-kurulur-ve-c-sharp-ortami" >}})
+- [Komi Store Nedir GitHub'dan APK Kurulum]({{< ref "komi-store-nedir-githubdan-direkt-apk-kurulum-rehberi" >}})
+- [C# Programlama Dili Neler Yapılabilir]({{< ref "c-sharp-programlama-diliyle-neler-yapilabilir" >}})
+

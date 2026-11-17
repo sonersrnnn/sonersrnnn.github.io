@@ -37,6 +37,14 @@ Peki ProtonVPN'i rakiplerinden ayıran nedir?
 - **AES-256 + 4096 RSA şifreleme:** Askeri düzeyde veri koruma.
 - **WireGuard protokolü:** En modern, en hızlı ve en güvenli VPN protokolü.
 
+## İlgili Yazılar
+
+- [Reklam engelleme ve DNS gizliliği]({{< ref "adaway-nedir-nasil-kullanilir" >}})
+- [Kamera/mikrofon erişim kontrolü]({{< ref "safedot-telefon-kamerasi-ve-mikrofonu-kullanildiginda-uyarir" >}})
+- [Şifre ve veri güvenliği]({{< ref "keeppassdx-android-guvenli-sifre-yoneticisi" >}})
+- [Disk şifreleme]({{< ref "veracrypt-nedir-dosya-disk-sifreleme-rehberi" >}})
+- [DPI bypass ve hotspot sınırı aşma]({{< ref "byebyedpi-nedir-rootsuz-hotspot-siniri-nasil-asilir" >}})
+
 ProtonVPN, yalnızca biyometrik doğrulama ile erişilebilen fiziksel veri merkezlerinde çalışmaktadır; bu da fiziksel saldırı riskini en aza indirir. Dünya genelindeki yüksek hızlı sunucu ağı sayesinde 7/24 özel internet erişimi sunar.
 
 ![ProtonVPN](/img/protonvpn-revanced-nedir-ucretsiz-vpn-guclendir/p1.jpg "ProtonVPN sunucu")
@@ -46,7 +54,7 @@ ProtonVPN, yalnızca biyometrik doğrulama ile erişilebilen fiziksel veri merke
 
 ## ReVanced ProtonVPN Ne Anlama Geliyor?
 
-[ReVanced YouTube Nedir? Özellikleri ve Kullanım Rehberi](https://sonersrnnn.github.io/revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi/) rehberimizde anlattığımız ReVanced projesi, yalnızca YouTube ile sınırlı değildir. ReVanced topluluğu, birçok popüler uygulamayı kullanıcı lehine modifiye etmektedir; ProtonVPN de bunlar arasındadır.
+[ReVanced ana rehber]({{< ref "revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi" >}}) rehberimizde anlattığımız ReVanced projesi, yalnızca YouTube ile sınırlı değildir. ReVanced topluluğu, birçok popüler uygulamayı kullanıcı lehine modifiye etmektedir; ProtonVPN de bunlar arasındadır.
 
 **ReVanced ProtonVPN**, resmi ProtonVPN uygulamasına dayanan, topluluk tarafından geliştirilen bir modifikasyondur. Orijinal uygulamanın tüm güvenlik altyapısını korurken iki kritik kısıtlamayı ortadan kaldırır:
 
@@ -68,7 +76,7 @@ ProtonVPN, yalnızca biyometrik doğrulama ile erişilebilen fiziksel veri merke
 | Yerel yayın hizmetleri | Normal bağlantı (hız) |
 | Mesajlaşma uygulamaları | VPN üzerinden (güvenlik) |
 
-Bu özellik sayesinde bant genişliğini verimli kullanabilir, VPN kaynaklı uyumsuzluk sorunlarını ortadan kaldırabilirsiniz. [AdGuard Nedir? Güvenli Reklam Engelleme ve Tarayıcı Koruma Rehberi](https://sonersrnnn.github.io/adguard-nedir-guvenli-reklam-engelleme-rehberi/) ile birlikte kullanıldığında internet deneyiminiz hem daha hızlı hem de çok daha güvenli hale gelir.
+Bu özellik sayesinde bant genişliğini verimli kullanabilir, VPN kaynaklı uyumsuzluk sorunlarını ortadan kaldırabilirsiniz. [AdGuard reklam engelleyici]({{< ref "adguard-nedir-guvenli-reklam-engelleme-rehberi" >}}) ile birlikte kullanıldığında internet deneyiminiz hem daha hızlı hem de çok daha güvenli hale gelir.
 
 ![ProtonVPN Bölünmüş tünelleme](/img/protonvpn-revanced-nedir-ucretsiz-vpn-guclendir/p2.png "split tunneling bölünmüş tünelleme nasıl çalışır")
 
@@ -109,7 +117,7 @@ ProtonVPN'in bu yapısı, piyasadaki ücretsiz VPN hizmetlerinin büyük çoğun
 | Reklam | ❌ Yok | ✅ Var |
 | Hız limiti | ❌ Yok | ✅ Var |
 
-[VPN Nedir? Kali Linux Üzerinde Vpnbook ile OpenVPN Kurulumu](https://sonersrnnn.github.io//vpn-nedir-ve-kali-linux-openvpn-kurulumu/) rehberimizde VPN teknolojisini ve farklı VPN araçlarını detaylıca incelemiştik. ProtonVPN, özellikle gizlilik odaklı kullanıcılar için rakipsiz bir seçenek olmayı sürdürmektedir.
+[VPN ve OpenVPN rehberi]({{< ref "vpn-nedir-ve-kali-linux-openvpn-kurulumu" >}}) rehberimizde VPN teknolojisini ve farklı VPN araçlarını detaylıca incelemiştik. ProtonVPN, özellikle gizlilik odaklı kullanıcılar için rakipsiz bir seçenek olmayı sürdürmektedir.
 
 ---
 

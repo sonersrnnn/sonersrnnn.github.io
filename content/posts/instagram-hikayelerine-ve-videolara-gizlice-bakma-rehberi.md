@@ -35,3 +35,10 @@ Ancak profil açık durumdaysa, internet üzerinde bu amaçla hizmet veren çeş
 ## Sonuç
 
 Instagram'da merak ettiğiniz açık profillerin hikayelerine ve videolarına kimliğinizi açık etmeden bakmak, doğru web araçları sayesinde oldukça kolaydır. Ancak gizlilik kurallarına ve kullanıcı haklarına saygı göstermek her zaman ön planda tutulmalıdır.
+
+## İlgili Yazılar
+
+- [Instagram/Twitter için şık yazı fontları]({{< ref "instagram-ve-twitter-sekilli-yazi-yazma-rehberi" >}})
+- [Gizlilik odaklı mesajlaşma alternatifi]({{< ref "telegram-mesajlasma-platformu-ve-ozgurlukcu-alternatifler" >}})
+- [Kamera/mikrofon erişim kontrolü]({{< ref "safedot-telefon-kamerasi-ve-mikrofonu-kullanildiginda-uyarir" >}})
+- [Açık kaynak Instagram istemcileri]({{< ref "f-droid-nedir-android-acik-kaynak-uygulama-magazasi" >}})

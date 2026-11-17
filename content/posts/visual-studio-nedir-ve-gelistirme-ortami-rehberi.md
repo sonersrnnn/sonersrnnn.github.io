@@ -24,7 +24,7 @@ Bu yazımızda, **Visual Studio nedir?**, hangi platformlar için uygulama geli�
 
 Visual Studio; masaüstü programları, web siteleri, web uygulamaları, web hizmetleri ve mobil uygulamalar tasarlayıp geliştirebileceğiniz kapsamlı bir tümleşik geliştirme ortamıdır. Microsoft Windows ekosistemi için Windows API, Windows Forms, WPF (Windows Presentation Foundation) ve Windows Store gibi çeşitli platformları destekler.
 
-Yazılımcılara hem yerel (native) kod hem de yönetilen (managed) kod üretme imkanı tanır. Gelişmiş kod düzenleyicisi sayesinde yazılım geliştirme sürecini son derece verimli hale getirir.
+Yazılımcılara hem yerel (native) kod hem de yönetilen (managed) kod üretme imkanı tanır. Gelişmiş kod düzenleyicisi sayesinde yazılım geliştirme sürecini son derece verimli hale getirir. Projelerinizi versiyon kontrol sistemleriyle entegre etmek için [GitHub Nedir? Nasıl Kullanılır? Başlangıç Rehberi]({{{< ref "github-nedir-nasil-kullanilir-baslangic-rehberi" >}}) yazımıza göz atabilirsiniz.
 
 ## Visual Studio'nun Öne Çıkan Gelişmiş Özellikleri
 
@@ -45,3 +45,13 @@ Visual Studio, dile özgü servisler aracılığıyla çok geniş bir programlam
 ## Sonuç
 
 Yazılım geliştirme yolculuğuna yeni başlayanlardan büyük ölçekli kurumsal projeler üreten profesyonellere kadar herkes için vazgeçilmez bir ekosistem sunan Visual Studio, sunduğu zengin araç setiyle geliştiricilerin en büyük yardımcısıdır.
+
+Kurulum ve C# ortamı için: [Visual Studio Nasıl Kurulur ve C# Ortamı Hazırlanır?]({{{< ref "visual-studio-nasil-kurulur-ve-c-sharp-ortami" >}})
+
+## İlgili Yazılar
+
+- [Visual Studio Nasıl Kurulur ve C# Ortamı]({{< ref "visual-studio-nasil-kurulur-ve-c-sharp-ortami" >}})
+- [C# Programlama Dili Neler Yapılabilir]({{< ref "c-sharp-programlama-diliyle-neler-yapilabilir" >}})
+- [GitHub Nedir Nasıl Kullanılır]({{< ref "github-nedir-nasil-kullanilir-baslangic-rehberi" >}})
+- [Linux Nedir ve Popüler Linux Dağıtımları]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}})
+

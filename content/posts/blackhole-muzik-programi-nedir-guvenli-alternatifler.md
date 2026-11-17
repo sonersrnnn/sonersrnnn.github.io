@@ -9,7 +9,7 @@ tags:
   - linux-ve-acik-kaynak
   - gizlilik-ve-guvenlik
 categories:
-  - Linux ve Açık Kaynak
+  - Mobil Dunya
 toc: true
 cover: /img/blackhole-muzik-programi-nedir-guvenli-alternatifler/blockhole.png
 ---
@@ -63,6 +63,8 @@ Orijinal projenin geliştirilmesi durdurulup GitHub deposu kapatıldıktan sonra
 
 BlackHole projesinin kapanmış olması, reklamsız ve açık kaynaklı müzik deneyiminden vazgeçeceğiniz anlamına gelmez. Günümüzde aktif olarak geliştirilen ve topluluk tarafından güvenilen alternatifler şunlardır:
 
+**Video ve Film İçin: [CloudStream Nedir? Ücretsiz Film ve Dizi İzleme Uygulaması]({{{< ref "cloudstream-nedir-ucretsiz-film-dizi-izleme-uygulamasi" >}})** — Açık kaynaklı, eklenti tabanlı film/dizi akış uygulaması.
+
 | İstemci Adı | Mimari / Altyapı | Hesap Desteği | Öne Çıkan Özellik |
 |---|---|---|---|
 | **ViMusic** | YouTube Music altyapısı | Gerekmez | Akıllı yerel önbellek, ses normalleştirme |
@@ -71,7 +73,7 @@ BlackHole projesinin kapanmış olması, reklamsız ve açık kaynaklı müzik d
 | **ReVanced** | Resmi YouTube Music Yaması | Zorunlu (MicroG) | Orijinal uygulamanın modifiye edilmiş hali |
 
 ### 1. ViMusic
-[ViMusic]({{< ref "vimusic-nedir-nasil-kullanilir" >}}), YouTube Music veri tabanını kullanarak çalışan ve tamamen açık kaynaklı bir Android müzik çalar uygulamasıdır. Arka planda çalma, şarkı sözü desteği ve yerel önbellekleme (cache) özellikleriyle BlackHole'un en yakın mirasçısıdır.
+[ViMusic]({{{< ref "vimusic-nedir-nasil-kullanilir" >}}), YouTube Music veri tabanını kullanarak çalışan ve tamamen açık kaynaklı bir Android müzik çalar uygulamasıdır. Arka planda çalma, şarkı sözü desteği ve yerel önbellekleme (cache) özellikleriyle BlackHole'un en yakın mirasçısıdır.
 
 ### 2. Metrolist
 Eğer BlackHole'un çalma listesi senkronizasyon özelliklerini arıyorsanız, Metrolist güçlü bir alternatiftir. İsteğe bağlı olarak kendi YouTube Music hesabınıza bağlanabilir, şarkılarınızı cihazlar arası eşitleyebilir ve gelişmiş ekolayzer ayarları yapabilirsiniz.
@@ -93,4 +95,13 @@ Evet, ViMusic tamamen açık kaynaklıdır ve resmi GitHub deposu üzerinden inc
 
 ## Sonuç ve Özet
 
-BlackHole Müzik, açık kaynaklı müzik istemcileri dünyasında iz bırakmış başarılı bir projeydi; ancak telif baskıları ve projenin durdurulması nedeniyle artık güncelliğini yitirmiştir. İnternette karşınıza çıkan "BlackHole güncel indir" bağlantılarının büyük kısmı güvenlik riski barındırmaktadır. Kontrolü elinizde tutmak ve reklamsız müzik deneyimi yaşamak için [ViMusic]({{< ref "vimusic-nedir-nasil-kullanilir" >}}) veya Metrolist gibi aktif ve güvenli açık kaynak alternatiflerini tercih etmeniz önerilir.
+BlackHole Müzik, açık kaynaklı müzik istemcileri dünyasında iz bırakmış başarılı bir projeydi; ancak telif baskıları ve projenin durdurulması nedeniyle artık güncelliğini yitirmiştir. İnternette karşınıza çıkan "BlackHole güncel indir" bağlantılarının büyük kısmı güvenlik riski barındırmaktadır. Kontrolü elinizde tutmak ve reklamsız müzik deneyimi yaşamak için [ViMusic]({{{< ref "vimusic-nedir-nasil-kullanilir" >}}) veya Metrolist gibi aktif ve güvenli açık kaynak alternatiflerini tercih etmeniz önerilir.
+
+## İlgili Yazılar
+
+- [ViMusic Nedir Nasıl Kullanılır]({{< ref "vimusic-nedir-nasil-kullanilir" >}})
+- [Metrolist YouTube Music Alternatifi]({{< ref "metrolist-nedir-youtube-music-alternatifi-android" >}})
+- [NewPipe YouTube Premium Ücretsiz]({{< ref "newpipe-youtube-premium-ucretsiz-kullanim-rehberi" >}})
+- [CloudStream Ücretsiz Film ve Dizi]({{< ref "cloudstream-nedir-ucretsiz-film-dizi-izleme-uygulamasi" >}})
+- [F-Droid Nedir Android Açık Kaynak Mağazası]({{< ref "f-droid-nedir-android-acik-kaynak-uygulama-magazasi" >}})
+

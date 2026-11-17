@@ -245,6 +245,13 @@ Komi Store şu kullanıcılar için mükemmel bir araçtır:
 - Shizuku veya root kullananlar ve sessiz kurulum isteyenler
 - Açık kaynak ekosistemini aktif olarak takip eden meraklılar
 
+## İlgili Yazılar
+
+- [GitHub ve sürüm yönetimi temelleri]({{< ref "github-nedir-nasil-kullanilir-baslangic-rehberi" >}})
+- [F-Droid mağazası ve karşılaştırma]({{< ref "f-droid-nedir-android-acik-kaynak-uygulama-magazasi" >}})
+- [Linux ve açık kaynak ekosistemi]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}})
+- [Root ve Magisk rehberi]({{< ref "android-root-nasil-yapilir-magisk-ile-adim-adim-rehber" >}})
+
 ---
 
 ## Sıkça Sorulan Sorular (SSS)

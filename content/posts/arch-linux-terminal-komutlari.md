@@ -31,9 +31,9 @@ toc: false
 
 ## Arch Linux Terminal Komutları Neden Bu Kadar Önemli?
 
-Arch Linux, "Keep It Simple, Stupid" (KISS) prensibini benimseyen minimalist bir dağıtımdır. Diğer popüler [Linux dağıtımları](https://sonersrnnn.github.io/linux-nedir-ve-populer-linux-dagitimlari/) gibi arka planda otomatik çalışan onlarca grafik sihirbazı yerine, işletim sisteminin tüm kontrol mekanizmasını kullanıcıya bırakır. Bu kontrolün ana anahtarı ise doğrudan terminaldir.
+Arch Linux, "Keep It Simple, Stupid" (KISS) prensibini benimseyen minimalist bir dağıtımdır. Diğer popüler [Linux dağıtımları]({{{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}}) gibi arka planda otomatik çalışan onlarca grafik sihirbazı yerine, işletim sisteminin tüm kontrol mekanizmasını kullanıcıya bırakır. Bu kontrolün ana anahtarı ise doğrudan terminaldir.
 
-Modern bir [Linux işletim sistemi](https://sonersrnnn.github.io/linux-isletim-sistemi-nedir-ve-dagitimlar/) ortamında terminal yalnızca acil durum kurtarma aracı değil; yazılım yükleme, kernel parametrelerini düzenleme, depolama alanlarını bağlama ve servisleri denetleme merkezidir. Mobil ortamlarda aşina olduğumuz gelişmiş [terminal kullanımı](https://sonersrnnn.github.io/termux-nedir-ne-ise-yarar-android-linux-rehberi/) kültüründe olduğu gibi, Arch üzerinde de CLI (komut satırı arayüzü) hızlı, kararlı ve kaynak tasarruflu bir iş akışı sunar.
+Modern bir [Linux işletim sistemi]({{{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}}) ortamında terminal yalnızca acil durum kurtarma aracı değil; yazılım yükleme, kernel parametrelerini düzenleme, depolama alanlarını bağlama ve servisleri denetleme merkezidir. Mobil ortamlarda aşina olduğumuz gelişmiş [Termux terminal]({{{< ref "termux-nedir-ne-ise-yarar-android-linux-rehberi" >}}) kültüründe olduğu gibi, Arch üzerinde de CLI (komut satırı arayüzü) hızlı, kararlı ve kaynak tasarruflu bir iş akışı sunar.
 
 ---
 
@@ -111,7 +111,7 @@ Linux dosya hiyerarşisinde güvenle gezinmek, dizin değiştirmek ve dosyaları
 
 ## Kullanıcı İzinleri ve Süreç Denetimi
 
-Arch Linux kurulumundan hemen sonra güvenlik gerekçesiyle kök hesap (`root`) yerine standart bir kullanıcı açılır ve yönetimsel görevler için yetkilendirme tanımlanır. Yetki yapılandırmalarında yaşanan aksaklıklarda [sudo problemleri ve yetki yapılandırması](https://sonersrnnn.github.io/kali-linux-root-hesabi-aktiflestirme-ve-sudo-problemi-cozumu/) rehberinde olduğu gibi grup kontrolleri büyük önem taşır. Kullanıcı izinleri ve takılan süreçleri yönetmek için kullanılan temel komutlar şunlardır:
+Arch Linux kurulumundan hemen sonra güvenlik gerekçesiyle kök hesap (`root`) yerine standart bir kullanıcı açılır ve yönetimsel görevler için yetkilendirme tanımlanır. Yetki yapılandırmalarında yaşanan aksaklıklarda [Kali Linux sudo rehberi]({{{< ref "kali-linux-root-hesabi-aktiflestirme-ve-sudo-problemi-cozumu" >}})nde olduğu gibi grup kontrolleri büyük önem taşır. Kullanıcı izinleri ve takılan süreçleri yönetmek için kullanılan temel komutlar şunlardır:
 
 | Komut | Açıklama / Ne İşe Yarar? |
 | :--- | :--- |
@@ -184,3 +184,10 @@ Hayır, Pacman doğrudan AUR depolarını tarayamaz veya derleyemez. AUR paketle
 
 ### Arch Linux sistem güncellemeleri ne sıklıkla yapılmalıdır?
 Arch Linux sürekli güncellenen (rolling-release) bir yapıya sahip olduğundan, haftada en az bir veya iki kez `sudo pacman -Syu` komutunu çalıştırmanız önerilir. Güncelleme öncesinde kritik paket değişiklikleri için Arch Linux resmi duyurularına göz atmak kararlılık açısından faydalıdır.
+
+## İlgili Yazılar
+
+- [Linux dağıtımları ve Arch Linux konumu]({{{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}})
+- [Debian tabanlı Kali Linux ve paket yönetimi]({{{< ref "kali-linux-nedir-ve-ikinci-isletim-sistemi-kurulumu" >}})
+- [Android'de Linux terminal (Termux)]({{{< ref "termux-nedir-ne-ise-yarar-android-linux-rehberi" >}})
+- [VirtualBox'ta Arch Linux test ortamı]({{{< ref "sanal-makine-nedir-nasil-kurulur-virtualbox-rehberi" >}})

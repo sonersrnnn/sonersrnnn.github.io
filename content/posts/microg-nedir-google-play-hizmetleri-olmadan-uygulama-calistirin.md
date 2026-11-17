@@ -41,7 +41,7 @@ Bu servislerin olmadığı bir cihazda çoğu uygulama ya açılmaz ya da sürek
 
 **microG (GmsCore)**, Google Play Hizmetleri'nin tüm API çağrılarını taklit eden bir yazılım katmanıdır. Uygulamalar "Google Play Hizmetleri var mı?" diye sorduğunda, microG "Evet, ben buradayım!" diyerek araya girer ve gerekli yanıtları üretir.
 
-Teknik açıdan microG, AOSP (Android Open Source Project) tabanlı ROM'larda tescilli Google API'lerini kullanan uygulamaların sorunsuz çalışmasına olanak tanır. [ReVanced YouTube Nedir? Özellikleri ve Kullanım Rehberi](https://sonersrnnn.github.io/revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi-indir/) gibi modifiye uygulamalarda hesabınıza giriş yapabilmek için microG zorunludur.
+Teknik açıdan microG, AOSP (Android Open Source Project) tabanlı ROM'larda tescilli Google API'lerini kullanan uygulamaların sorunsuz çalışmasına olanak tanır. [ReVanced ana rehber]({{< ref "revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi" >}}) gibi modifiye uygulamalarda hesabınıza giriş yapabilmek için microG zorunludur.
 
 ---
 
@@ -66,13 +66,13 @@ Google'ın konum API'si yerine açık kaynaklı alternatif sağlayıcıları kul
 Huawei'nin 2019 sonrası üretilen cihazları Google Mobil Hizmetleri (GMS) olmadan geliyor. Bu cihazlara microG kurarak Google'a bağımlı uygulamaların büyük bölümünü çalıştırabilirsiniz.
 
 ### 2. Custom ROM Kullanıcıları İçin Tam Uyumluluk
-LineageOS, GrapheneOS veya CalyxOS gibi AOSP tabanlı ROM'larda varsayılan olarak Google servisleri bulunmaz. microG, bu ROM'ları kullananların GApps paketine başvurmadan uygulama ekosisteminden yararlanmasını sağlar. [Linux Nedir? Açık Kaynak Kodlu İşletim Sistemi ve Popüler Dağıtımlar](https://sonersrnnn.github.io/linux-nedir-ve-populer-linux-dagitimlari/) konusuyla ilgilenen açık kaynak tutkunları için ideal bir tamamlayıcıdır.
+LineageOS, GrapheneOS veya CalyxOS gibi AOSP tabanlı ROM'larda varsayılan olarak Google servisleri bulunmaz. microG, bu ROM'ları kullananların GApps paketine başvurmadan uygulama ekosisteminden yararlanmasını sağlar. [Linux ve açık kaynak ekosistemi]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}}) konusuyla ilgilenen açık kaynak tutkunları için ideal bir tamamlayıcıdır.
 
 ### 3. YouTube ReVanced ile Hesap Girişi
-[ReVanced YouTube Nedir? Özellikleri ve Kullanım Rehberi](https://sonersrnnn.github.io/revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi-indir/) yazımızda da anlattığımız üzere, ReVanced ve benzeri YouTube modlarının Google hesabıyla çalışabilmesi için arka planda microG'nin yüklü olması gerekir. microG, ReVanced'ın Google kimlik doğrulama köprüsünü sağlar.
+[ReVanced ana rehber]({{< ref "revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi" >}}) yazımızda da anlattığımız üzere, ReVanced ve benzeri YouTube modlarının Google hesabıyla çalışabilmesi için arka planda microG'nin yüklü olması gerekir. microG, ReVanced'ın Google kimlik doğrulama köprüsünü sağlar.
 
 ### 4. Gizlilik ve Google'dan Bağımsızlık
-Google Play Hizmetleri, arka planda sürekli veri toplar ve Google sunucularıyla iletişim kurar. microG bu veri akışını büyük ölçüde keser ya da minimize eder; böylece dijital gizliliğinizi koruyabilirsiniz. [AdGuard Nedir? Güvenli Reklam Engelleme ve Tarayıcı Koruma Rehberi](https://sonersrnnn.github.io/adguard-nedir-guvenli-reklam-engelleme-rehberi/) gibi araçlarla birlikte kullanıldığında gizlilik katmanınız oldukça güçlenir.
+Google Play Hizmetleri, arka planda sürekli veri toplar ve Google sunucularıyla iletişim kurar. microG bu veri akışını büyük ölçüde keser ya da minimize eder; böylece dijital gizliliğinizi koruyabilirsiniz. [AdGuard reklam engelleyici]({{< ref "adguard-nedir-guvenli-reklam-engelleme-rehberi" >}}) gibi araçlarla birlikte kullanıldığında gizlilik katmanınız oldukça güçlenir.
 
 ---
 
@@ -121,13 +121,20 @@ Evet. microG, GNU GPL v3 lisansıyla dağıtılan ve kodu herkes tarafından inc
 Çoğu uygulamayla uyumludur; ancak Play Integrity (eski adıyla SafetyNet) doğrulaması yapan bankacılık ve ödeme uygulamalarında sorun yaşanabilir. Bu uygulamalar cihazın "sertifikalı" olup olmadığını kontrol eder.
 
 **microG ile YouTube ReVanced nasıl kullanılır?**
-Önce microG'yi GitHub'dan indirip yükleyin, ardından [ReVanced YouTube](https://sonersrnnn.github.io/revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi-indir/) APK'sını kurun. ReVanced'ı açtığınızda microG üzerinden Google hesabınıza giriş yapabilirsiniz.
+Önce microG'yi GitHub'dan indirip yükleyin, ardından [ReVanced ana rehber]({{< ref "revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi" >}}) APK'sını kurun. ReVanced'ı açtığınızda microG üzerinden Google hesabınıza giriş yapabilirsiniz.
 
 **microG orijinal Google Play Hizmetleri'ni tamamen değiştirir mi?**
 Büyük ölçüde evet; ancak bazı özellikler (Play Integrity, belirli DRM mekanizmaları) tam olarak taklit edilemez. Standart uygulamaların %90+'ı microG ile sorunsuz çalışır.
 
 **microG hangi ROM'larda çalışır?**
 LineageOS, GrapheneOS, CalyxOS, DivestOS ve Signature Spoofing destekleyen tüm AOSP tabanlı ROM'larda çalışır. Huawei EMUI cihazlar için özel microG sürümleri mevcuttur.
+
+## İlgili Yazılar
+
+- [ReVanced ve microG entegrasyonu]({{< ref "revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi" >}})
+- [Linux ve açık kaynak ekosistemi]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}})
+- [Tarayıcı tabanlı gizlilik koruması]({{< ref "adguard-nedir-guvenli-reklam-engelleme-rehberi" >}})
+- [microG indirme kaynağı]({{< ref "f-droid-nedir-android-acik-kaynak-uygulama-magazasi" >}})
 
 ---
 

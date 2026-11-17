@@ -39,3 +39,10 @@ Sosyal medya hesaplarınız için havalı ve şekilli yazı yazmak oldukça basi
 ## Sosyal Medyada Fark Yaratın
 
 Instagram’daki kullanıcı adınız veya biyografiniz sizin dijital kartvizitiniz ve prestijinizdir. Şekilli yazılar kullanarak kalabalık sosyal medya akışında kolayca fark edilebilir, gönderi ve yorumlarınızda akılda kalıcı bir iz bırakabilirsiniz.
+
+## İlgili Yazılar
+
+- [Instagram hikayelerine anonim bakma]({{< ref "instagram-hikayelerine-ve-videolara-gizlice-bakma-rehberi" >}})
+- [Gizlilik odaklı mesajlaşma alternatifi]({{< ref "telegram-mesajlasma-platformu-ve-ozgurlukcu-alternatifler" >}})
+- [Kamera/mikrofon erişim kontrolü]({{< ref "safedot-telefon-kamerasi-ve-mikrofonu-kullanildiginda-uyarir" >}})
+- [Gizlilik odaklı YouTube istemcisi]({{< ref "newpipe-youtube-premium-ucretsiz-kullanim-rehberi" >}})

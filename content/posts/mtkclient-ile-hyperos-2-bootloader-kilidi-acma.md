@@ -24,7 +24,7 @@ MediaTek işlemcili telefonlarda yeni nesil HyperOS 2 sürümleriyle birlikte ge
 
 ## MediaTek Cihazlarda Bootloader Kilidi ve Riskler
 
-MediaTek tabanlı akıllı telefonlarda bootloader açma işlemi mümkündür ancak dikkat edilmesi gereken ciddi riskler barındırır. İşlem sonucunda cihazdaki tüm veriler fabrika ayarlarına döner (factory reset gibi silinir), cihazda brick (açılmama) riski oluşur ve cihaz garanti dışı kalır. Bu nedenle öncelikle üreticinin resmi yöntemi (örneğin Xiaomi için Mi Unlock) mevcutsa öncelikle o denenmelidir. HyperOS ve yeni MIUI sürümlerinde ek güvenlik katmanları (RPMB vb.) kullanıcıların karşısına çıkmaktadır.
+MediaTek tabanlı akıllı telefonlarda bootloader açma işlemi mümkündür ancak dikkat edilmesi gereken ciddi riskler barındırır. MTKClient aracının genel özellikleri ve flash/onarim senaryoları için [MTKClient Nedir? MediaTek Flash/Onarım Aracı]({{{< ref "mtkclient-nedir-mediatek-flslash-onarim-araci" >}}) incelememize göz atabilirsiniz. İşlem sonucunda cihazdaki tüm veriler fabrika ayarlarına döner (factory reset gibi silinir), cihazda brick (açılmama) riski oluşur ve cihaz garanti dışı kalır. Bu nedenle öncelikle üreticinin resmi yöntemi (örneğin Xiaomi için Mi Unlock) mevcutsa öncelikle o denenmelidir. HyperOS ve yeni MIUI sürümlerinde ek güvenlik katmanları (RPMB vb.) kullanıcıların karşısına çıkmaktadır.
 
 ### Önemli Ön Hazırlıklar
 * Tüm verilerinizi yedekleyin, işlem sırasında cihaz tamamen sıfırlanacaktır.
@@ -109,7 +109,7 @@ python mtk.py e metadata,userdata,md_udc
 python mtk.py reset
 ```
 
-Cihaz açıldığında sarı renkli "The bootloader is unlocked" uyarısını göreceksiniz. Kali Linux veya benzeri araçlarla doğrulama yapmak için Fastboot moduna geçip `fastboot getvar unlocked` komutunu çalıştırabilirsiniz.
+Cihaz açıldığında sarı renkli "The bootloader is unlocked" uyarısını göreceksiniz. Kilidi açtıktan sonra cihazınızı rootlamak için [Android Root Nasıl Yapılır? Magisk ile Adım Adım Rootlama Rehberi]({{{< ref "android-root-nasil-yapilir-magisk-ile-adim-adim-rehber" >}}) kılavuzumuzu inceleyebilirsiniz.
 
 ## Sıkça Sorulan Sorular (SSS)
 
@@ -126,3 +126,11 @@ RPMB yedeği ve manipülasyon işlemlerinde Windows üzerinde `struct.error` gib
 İşlem sırasında orijinal data kablosu kullanmak, USB 2.0 port tercih etmek ve RPMB yedeğini (`rpmb_backup.bin`) güvenli bir yerde saklamak hayati önem taşır. Olası bir brick durumunda SP Flash Tool ve scatter dosyaları ile kurtarma yapılması gerekebilir.
 
 ---
+
+## İlgili Yazılar
+
+- [Android Root Nasıl Yapılır Magisk ile]({{< ref "android-root-nasil-yapilir-magisk-ile-adim-adim-rehber" >}})
+- [MTKClient Nedir MediaTek Flash Onarım]({{< ref "mtkclient-nedir-mediatek-flslash-onarim-araci" >}})
+- [Sanal Makine Nedir ve Nasıl Kurulur]({{< ref "sanal-makine-nedir-nasil-kurulur-virtualbox-rehberi" >}})
+- [Linux Nedir ve Popüler Linux Dağıtımları]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}})
+

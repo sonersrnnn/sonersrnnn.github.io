@@ -65,4 +65,14 @@ Oluşturulan tünel bağlantısını (linki) test ortamında kullanarak sahte ar
 
 ## Sonuç
 
-Sosyal mühendislik ve oltalama saldırılarına karşı iki aşamalı doğrulama (2FA) kullanmak ve bilinmeyen bağlantılara karşı dikkatli olmak en etkili savunma yöntemidir.
+Sosyal mühendislik ve oltalama saldırılarına karşı iki aşamalı doğrulama (2FA) kullanmak ve bilinmezen bağlantılara karşı dikkatli olmak en etkili savunma yöntemidir.
+
+İnstagram gizliliğinizi artırmak için ek kaynaklar:
+- [Instagram Hikayelerine ve Videolara Gizlice Bakma Rehberi]({{{< ref "instagram-hikayelerine-ve-videolara-gizlice-bakma-rehberi" >}}): Viewer sitelerinin riskleri ve resmi gizlilik ayarları.
+- [Instagram ve Twitter Şekilli Yazı Yazma Rehberi]({{{< ref "instagram-ve-twitter-sekilli-yazi-yazma-rehberi" >}}): Unicode font sitelerinin erişilebilirlik ve güvenlik riskleri.
+
+## İlgili Yazılar
+
+- [Kali Linux ana rehber ve kurulum]({{< ref "kali-linux-nedir-ve-ikinci-isletim-sistemi-kurulumu" >}})
+- [Sanal makineye Kali kurulumu]({{< ref "kali-linux-sanal-makineye-nasil-kurulur-virtualbox-rehberi" >}})
+- [WiFi güvenlik testi]({{< ref "airgeddon-ile-kali-linux-wifi-kirma-ve-evil-twin-saldirisi" >}})

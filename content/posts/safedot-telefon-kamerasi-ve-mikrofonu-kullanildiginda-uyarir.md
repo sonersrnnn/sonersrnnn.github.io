@@ -37,3 +37,11 @@ SafeDot, herhangi bir uygulama telefonunuzun kamerasını veya mikrofonunu etkin
 ## Gizliliğinizi Güvenceye Alın
 
 Akıllı telefon güvenliğinde proaktif önlemler almak, istenmeyen veri sızıntılarını ve gizlilik ihlallerini önlemenin en etkili yoludur. SafeDot gibi hafif araçlar, arka planda gizlice çalışan uygulamalara karşı kullanıcılara tam kontrol sağlar.
+
+## İlgili Yazılar
+
+- [Şifre yönetimi ve veri güvenliği]({{< ref "keeppassdx-android-guvenli-sifre-yoneticisi" >}})
+- [Reklam engelleme ve izleyici engelleme]({{< ref "adaway-nedir-nasil-kullanilir" >}})
+- [VPN ile trafik şifreleme]({{< ref "protonvpn-revanced-nedir-ucretsiz-vpn-guclendir" >}})
+- [Disk şifreleme]({{< ref "veracrypt-nedir-dosya-disk-sifreleme-rehberi" >}})
+- [SafeDot indirme kaynağı]({{< ref "f-droid-nedir-android-acik-kaynak-uygulama-magazasi" >}})

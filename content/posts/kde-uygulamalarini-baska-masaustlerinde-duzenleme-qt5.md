@@ -69,5 +69,11 @@ Yapılandırmanın geçerli olması için bilgisayarınızı yeniden başlatın.
 
 Eğer çok daha modern ve şık temalar kullanmak istiyorsanız, **Kvantum** tema motorunu kurarak dilediğiniz SVG tabanlı temayı QT uygulamalarınıza giydirebilirsiniz.
 
+## İlgili Yazılar
+
+- [Linux dağıtımları ve masaüstü ortamları]({{{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}})
+- [Arch Linux terminal ve paket yönetimi (yay/apt)]({{{< ref "arch-linux-terminal-komutlari" >}})
+- [VirtualBox'ta farklı masaüstü test ortamı]({{{< ref "sanal-makine-nedir-nasil-kurulur-virtualbox-rehberi" >}})
+- [Çoklu ISO ile masaüstü deneme medyası]({{{< ref "ventoy-incelemesi" >}})
 
 - - -

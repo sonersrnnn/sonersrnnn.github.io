@@ -36,3 +36,10 @@ Android ekosisteminde bazen sahip olduğumuz bir uygulamanın APK dosyasını ba
 ## Kullanım Alanları ve Avantajları
 
 Yedekleme süreçlerinde internet bağlantısına ihtiyaç duymadan uygulamaları saklamak, eski sürümleri korumak veya başka bir cihaza kablosuz/kablolu dosya transferi ile uygulama taşımak APK Extractor ile oldukça pratiktir.
+
+## İlgili Yazılar
+
+-  [Açık kaynak APK deposu alternatifi]({{< ref "f-droid-nedir-android-acik-kaynak-uygulama-magazasi" >}})
+-  [GitHub'dan doğrudan APK indirme]({{< ref "komi-store-nedir-githubdan-direkt-apk-kurulum-rehberi" >}})
+-  [Terminal ile APK yönetimi]({{< ref "termux-nedir-ne-ise-yarar-android-linux-rehberi" >}})
+-  [Sanal makinede APK test etme]({{< ref "sanal-makine-nedir-nasil-kurulur-virtualbox-rehberi" >}})

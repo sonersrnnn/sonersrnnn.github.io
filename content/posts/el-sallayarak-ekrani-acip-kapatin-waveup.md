@@ -45,4 +45,11 @@ WaveUp uygulaması, sunduğu derin ekran kontrolü özellikleri nedeniyle **Ciha
 
 Fiziksel tuş aşınmasını önleyen, bataryayı yormayan ve tamamen açık kaynaklı olan WaveUp, Android kullanıcıları için vazgeçilmez bir yardımcı araçtır.
 
+## İlgili Yazılar
+
+- [Root ile gelişmiş ekran kontrolü]({{< ref "android-root-nasil-yapilir-magisk-ile-adim-adim-rehber" >}})
+- [Terminal ile sistem otomasyonu]({{< ref "termux-nedir-ne-ise-yarar-android-linux-rehberi" >}})
+- [Sanal makinede Android test etme]({{< ref "sanal-makine-nedir-nasil-kurulur-virtualbox-rehberi" >}})
+- [WaveUp indirme kaynağı]({{< ref "f-droid-nedir-android-acik-kaynak-uygulama-magazasi" >}})
+
 ---

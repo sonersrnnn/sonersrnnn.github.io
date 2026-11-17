@@ -62,4 +62,11 @@ bootrec /fixboot
 ### 4. Adım: Sistemi Yeniden Başlatın
 İşlemler başarıyla tamamlandıktan sonra USB belleği bilgisayarınızdan çıkarın ve komut penceresine `exit` yazarak kapatın. Bilgisayarınızı yeniden başlattığınızda hatanın ortadan kalktığını ve doğrudan Windows'un açıldığını göreceksiniz.
 
+## İlgili Yazılar
+
+- [Kali Linux dual boot kurulumu ve GRUB yönetimi]({{< ref "kali-linux-nedir-ve-ikinci-isletim-sistemi-kurulumu" >}})
+- [Linux ve GRUB temelleri genel rehber]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}})
+- [VirtualBox'ta sanal makine ile güvenli test]({{< ref "sanal-makine-nedir-nasil-kurulur-virtualbox-rehberi" >}})
+- [Kali Linux sanal makine kurulumu (dual boot riski yok)]({{< ref "kali-linux-sanal-makineye-nasil-kurulur-virtualbox-rehberi" >}})
+
 ---

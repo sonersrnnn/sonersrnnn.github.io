@@ -52,4 +52,12 @@ Linux, tek bir şirket tarafından tek tip olarak sunulmaz. Çekirdek üzerine i
 
 Eğer bilgisayarınızda tam kontrol sahibi olmak, reklamsız, hızlı ve tamamen güvenli bir işletim sistemi deneyimi yaşamak istiyorsanız Linux dünyasına bir şans vermelisiniz.
 
+## İlgili Yazılar
+
+- [Linux ana rehber ve dağıtım karşılaştırması]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}})
+- [Arch Linux terminal komutları]({{< ref "arch-linux-terminal-komutlari" >}})
+- [Kali Linux güvenlik dağıtımı]({{< ref "kali-linux-nedir-ve-ikinci-isletim-sistemi-kurulumu" >}})
+- [VirtualBox'ta Linux kurulumu]({{< ref "sanal-makine-nedir-nasil-kurulur-virtualbox-rehberi" >}})
+- [Çoklu Linux ISO ile boot USB oluşturma]({{< ref "ventoy-incelemesi" >}})
+
 ---

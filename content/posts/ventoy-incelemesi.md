@@ -47,3 +47,10 @@ Ventoy'u vazgeçilmez kılan teknik yetenekler ve avantajlar şunlardır:
 ## Kimler İçin Uygun?
 
 Sistem yöneticileri, teknik servis uzmanları, yazılımcılar ve sürekli farklı işletim sistemleri test eden teknoloji meraklıları için Ventoy, çantada taşınan mükemmel bir İsviçre çakısıdır. Onlarca farklı USB bellek taşıma zahmetini ortadan kaldırarak tek bir yüksek kapasiteli USB ile tüm operasyonları yönetmenizi sağlar.
+
+## İlgili Yazılar
+
+- [VirtualBox ile ISO test ortamı]({{< ref "sanal-makine-nedir-nasil-kurulur-virtualbox-rehberi" >}})
+- [Linux dağıtımları ISO listesi]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}})
+- [Kali Linux ISO ile kurulum]({{< ref "kali-linux-sanal-makineye-nasil-kurulur-virtualbox-rehberi" >}})
+- [Arch Linux ISO ve pacman kurulumu]({{< ref "arch-linux-terminal-komutlari" >}})

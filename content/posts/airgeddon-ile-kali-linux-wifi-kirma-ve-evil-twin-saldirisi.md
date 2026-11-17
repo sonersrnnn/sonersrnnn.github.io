@@ -11,7 +11,7 @@ tags:
   - evil-twin
   - guvenlik
 categories:
-  - Kablosuz Ağ Güvenliği
+  - Linux
 toc: true
 cover: /img/airgeddon-ile-kali-linux-wifi-kirma-ve-evil-twin-saldirisi/image.png
 ---
@@ -100,3 +100,10 @@ Ağ yöneticileri için için WPA3 Enterprise veya güçlü şifreleme protokoll
 ## Sonuç ve Özet
 
 Airgeddon, kablosuz ağ güvenliği testlerinde Evil Twin senaryolarını simüle etmek için güçlü ve pratik bir araçtır. Wi-Fi ağlarının güvenliğini sağlamak için zayıf şifreler yerine WPA3 gibi modern şifreleme standartlarını kullanmak, güçlü ve karmaşık parolalar belirlemek bu tür sosyal mühendislik saldırılarına karşı en etkili savunma yöntemidir.
+
+## İlgili Yazılar
+
+- [Kali Linux kurulum ve sızma testi ortamı]({{{< ref "kali-linux-nedir-ve-ikinci-isletim-sistemi-kurulumu" >}})
+- [Linux ve kablosuz ağ araçları temelleri]({{{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}})
+- [VirtualBox'ta Kali Linux kurulumu]({{{< ref "kali-linux-sanal-makineye-nasil-kurulur-virtualbox-rehberi" >}})
+- [Sanal makine ile güvenli test ortamı]({{{< ref "sanal-makine-nedir-nasil-kurulur-virtualbox-rehberi" >}})

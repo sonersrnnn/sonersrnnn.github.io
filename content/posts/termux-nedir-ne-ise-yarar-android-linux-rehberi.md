@@ -30,7 +30,7 @@ tags:
 
 **Termux**, Android işletim sistemi için geliştirilmiş, güçlü bir terminal emülasyonu ile zengin bir Linux paket ekosistemini bir araya getiren açık kaynaklı ve ücretsiz bir platformdur. Geleneksel yöntemlerde bir Android cihazda gelişmiş sistem araçlarını veya komut satırı programlarını çalıştırmak için bootloader kilidi açma ve root atma gibi riskli işlemler gerekirdi. Ancak Termux, Android'in yerel güvenlik yalıtımı (sandboxing) sınırları içerisinde izole bir Linux kullanıcı alanı (userland) kurar.
 
-Cihazınızda tıpkı [Linux Nedir? Açık Kaynak Kodlu İşletim Sistemi ve Popüler Dağıtımlar](https://sonersrnnn.github.io/linux-nedir-ve-populer-linux-dagitimlari/) dünyasında olduğu gibi Bash veya Zsh kabuklarını çalıştırabilir, komut satırı araçlarını derleyebilir ve geniş bir yazılım yelpazesini telefonunuzda yerel hızda tecrübe edebilirsiniz.
+Cihazınızda tıpkı [Linux ve açık kaynak ekosistemi]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}}) dünyasında olduğu gibi Bash veya Zsh kabuklarını çalıştırabilir, komut satırı araçlarını derleyebilir ve geniş bir yazılım yelpazesini telefonunuzda yerel hızda tecrübe edebilirsiniz.
 
 - - -
 
@@ -48,7 +48,7 @@ Termux'un sunduğu işlevler yalnızca bir siyah terminal ekranıyla sınırlı 
 | **Ağ ve Sistem Testleri**    | `curl`, `wget`, `ping`, `nmap`       | Ağ analizi, web sitesi erişilebilirlik kontrolü            |
 | **Arşiv ve Temizlik**        | `tar`, `p7zip`, `fclones`, `fdupes`  | Yinelenen dosyaları ayıklama ve disk tasarrufu             |
 
-Android cihazınızda internet sınırlarını ve ağ engellerini aşmak için [ByeByeDPI Nedir? Android'de Rootsuz Hotspot Sınırı ve DPI Aşma](https://sonersrnnn.github.io/byebyedpi-nedir-rootsuz-hotspot-siniri-nasil-asilir/) gibi araçları incelerken, arka planda gelişmiş ağ parametrelerini denetlemek ve komut satırından ağ trafiğini test etmek için de Termux benzersiz bir ortam sunar.
+Android cihazınızda internet sınırlarını ve ağ engellerini aşmak için [ByeByeDPI DPI aşma aracı]({{< ref "byebyedpi-nedir-rootsuz-hotspot-siniri-nasil-asilir" >}}) gibi araçları incelerken, arka planda gelişmiş ağ parametrelerini denetlemek ve komut satırından ağ trafiğini test etmek için de Termux benzersiz bir ortam sunar.
 
 ![](/img/termux-nedir-ne-ise-yarar-android-linux-rehberi/Termux2.jpg)
 
@@ -91,7 +91,7 @@ Bu komutu yazdığınızda ekrana Android'in standart izin penceresi gelecektir.
 
 Termux, Debian ve Ubuntu ekosisteminden alışkın olduğumuz gelişmiş bir paket yönetim altyapısıyla çalışır. Geliştirici paketlerini kurarken `pkg` (Termux'un APT sarmalayıcısı) veya doğrudan `apt` komutlarını kullanabilirsiniz.
 
-Eğer daha önce [Kali Linux Paket Bulunamadı Hatası ve Kesin Sources.list Çözümü](https://sonersrnnn.github.io/kali-linux-paket-bulunamadi-hatasi-ve-sources-list-cozumu/) sürecindeki gibi repo uyumsuzlukları yaşamak istemiyorsanız, paketleri her zaman `pkg` aracıyla ve resmi depolar üzerinden indirmelisiniz.
+Eğer daha önce [Kali Linux paket hatası çözümü]({{< ref "kali-linux-paket-bulunamadi-hatasi-ve-sources-list-cozumu" >}}) sürecindeki gibi repo uyumsuzlukları yaşamak istemiyorsanız, paketleri her zaman `pkg` aracıyla ve resmi depolar üzerinden indirmelisiniz.
 
 ### Temel Paket Kurulum Komutları:
 
@@ -153,6 +153,13 @@ nano main.py
 Termux üzerinden `yt-dlp` ve `ffmpeg` kurarak yüksek çözünürlüklü videoları indirebilir, ses dosyalarını kırpabilir veya video formatlarını doğrudan telefonun işlemcisini kullanarak dönüştürebilirsiniz.
 
 - - -
+
+## İlgili Yazılar
+
+- [Linux ve açık kaynak ekosistemi genel rehberi]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}})
+- [Android DPI aşma ve ağ testi (Termux ile)]({{< ref "byebyedpi-nedir-rootsuz-hotspot-siniri-nasil-asilir" >}})
+- [Paket depoları ve repo yönetimi]({{< ref "kali-linux-paket-bulunamadi-hatasi-ve-sources-list-cozumu" >}})
+- [Termux güncel sürümü indirme kaynağı]({{< ref "f-droid-nedir-android-acik-kaynak-uygulama-magazasi" >}})
 
 ![](/img/termux-nedir-ne-ise-yarar-android-linux-rehberi/Termux3.jpg)
 

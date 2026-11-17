@@ -102,6 +102,13 @@ Aracı çalıştırmak ve telefonunuzla iletişim kurmak için şu adımları iz
 
 MediaTek işlemcili bir Android cihaza sahipseniz ve geliştirici dünyasının sınırlarını zorlamak istiyorsanız, MTKClient çantanızda bulunması gereken en kritik araçtır. Üretici kilitlerini açmak, tam yedek almak (dump) veya yazılımsal hatalar nedeniyle kullanılamaz hale gelen telefonunuzu kurtarmak için tamamen açık kaynaklı, güvenilir ve güçlü bir çözümdür.
 
+## İlgili Yazılar
+
+- [Genel Android root rehberi (Magisk)]({{< ref "android-root-nasil-yapilir-magisk-ile-adim-adim-rehber" >}})
+- [Android'de Linux terminal (MTKClient kullanımı için)]({{< ref "termux-nedir-ne-ise-yarar-android-linux-rehberi" >}})
+- [Sanal makinede Linux kurulumu]({{< ref "sanal-makine-nedir-nasil-kurulur-virtualbox-rehberi" >}})
+- [Linux dağıtımları (Ubuntu önerilir)]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}})
+
 ---
 ## Bağlantılar
 

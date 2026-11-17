@@ -35,6 +35,14 @@ RecTV, kullanıcıların popüler platformlardaki film ve dizileri herhangi bir 
 
 Dijital eğlence dünyasında bütçe dostu alternatifler arayanlar için RecTV, film ve dizi keyfini kesintisiz yaşatan pratik bir çözüm sunmaktadır. Uygulamayı güvenli kaynaklardan indirerek çevrimdışı dizi ve film keyfinin tadını çıkarabilirsiniz.
 
+## İlgili Yazılar
+
+- [NewPipe ile YouTube Premium özellikleri]({{< ref "newpipe-youtube-premium-ucretsiz-kullanim-rehberi" >}})
+- [ViMusic ile ücretsiz müzik]({{< ref "vimusic-nedir-nasil-kullanilir" >}})
+- [Metrolist YouTube Music istemcisi]({{< ref "metrolist-nedir-youtube-music-alternatifi-android" >}})
+- [ReVanced YouTube modu]({{< ref "revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi" >}})
+- [Açık kaynak uygulamalar deposu]({{< ref "f-droid-nedir-android-acik-kaynak-uygulama-magazasi" >}})
+
 ## Bağlantılar
 
 **[RecTv İndir](https://drive.google.com/file/d/1-6Ki4IRu6hngKrug_0UwqqCYBOw-7D0J/view)**

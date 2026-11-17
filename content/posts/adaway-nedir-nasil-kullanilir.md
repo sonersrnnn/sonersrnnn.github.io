@@ -11,8 +11,7 @@ tags:
   - acik-kaynak
   - gizlilik
 categories:
-  - Android
-  - Güvenlik
+  - Mobil Dunya
 toc: true
 cover: /img/adaway-nedir-nasil-kullanilir/iadaway.jpg
 ---
@@ -107,7 +106,7 @@ Google, gelir modeli reklam yayıncılığına dayandığı için sistem genelin
 
 ### Rootlu Cihazlar İçin Kurulum:
 
-1. Cihazınızda Magisk yüklü olduğundan emin olun.
+1. Cihazınızda Magisk yüklü olduğundan emin olun (Cihazınız henüz rootlu değilse [Android Root Nasıl Yapılır? Magisk ile Adım Adım Rootlama Rehberi]({{{< ref "android-root-nasil-yapilir-magisk-ile-adim-adim-rehber" >}}) başlıklı kılavuzumuzdan faydalanabilirsiniz).
 2. Modern Android sürümlerinde (Android 9+) sistem bölümü salt okunur (read-only) olduğundan, önce **Magisk uygulamasını açın > Ayarlar > Systemless Hosts modülünü etkinleştirin**.
 3. AdAway uygulamasını kurup açın ve **"Kök Erişimi Tabanlı (Root)"** seçeneğini seçin.
 4. Çıkan Magisk / Superuser isteminde AdAway'e root yetkisi verin.
@@ -119,7 +118,7 @@ Google, gelir modeli reklam yayıncılığına dayandığı için sistem genelin
 
 AdAway mükemmel bir ağ filtreleyicidir ancak teknik çalışma mimarisinden ötürü her reklamı engelleyemez. Hayal kırıklığı yaşamamak için bu sınırları bilmek gerekir:
 
-1. **YouTube Video İçi Reklamlar:** AdAway alan adı (DNS) seviyesinde filtreleme yapar. YouTube video içi reklamları ise videoların kendisiyle aynı sunuculardan (CDN) ve aynı alan adından gönderir. AdAway bu alan adını engellerse videonun kendisi de açılmaz. Bu nedenle YouTube reklamları için ReVanced veya Firefox üzerinde uBlock Origin gibi kozmetik filtreleme yapabilen çözümler kullanılmalıdır. Reklamsız müzik akışı içinse [ViMusic]({{< ref "vimusic-nedir-nasil-kullanilir" >}}) gibi bağımsız açık kaynaklı istemciler tercih edilebilir.
+1. **YouTube Video İçi Reklamlar:** AdAway alan adı (DNS) seviyesinde filtreleme yapar. YouTube video içi reklamları ise videoların kendisiyle aynı sunuculardan (CDN) ve aynı alan adından gönderir. AdAway bu alan adını engellerse videonun kendisi de açılmaz. Bu nedenle YouTube reklamları için ReVanced veya Firefox üzerinde uBlock Origin gibi kozmetik filtreleme yapabilen çözümler kullanılmalıdır. Reklamsız müzik akışı içinse [ViMusic]({{{< ref "vimusic-nedir-nasil-kullanilir" >}}) gibi bağımsız açık kaynaklı istemciler tercih edilebilir.
 2. **Kozmetik Filtreleme (Boş Reklam Alanları):** Tarayıcı eklentileri (örneğin AdGuard veya uBlock Origin), reklam kaldırıldığında web sayfasındaki boş çerçeveleri CSS kurallarıyla gizler. AdAway ağ isteğini kestiği için web sitelerinde reklamın yerine gri/boş bir kutu kalabilir.
 3. **Aynı Anda İkinci Bir VPN Kullanımı (Rootsuz Mod):** Android işletim sistemi aynı anda yalnızca tek bir VPN profili çalıştırabilir. Rootsuz AdAway açıkken gizlilik veya konum değiştirme amacıyla harici bir VPN açarsanız AdAway devre dışı kalır.
 
@@ -161,3 +160,10 @@ Eğer AdAway'i rootlu modda kullanıyorsanız evet; hosts dosyası sistemi etkil
 Android dünyasında reklam engelleme söz konusu olduğunda AdAway; açık kaynak kodlu yapısı, telemetri barındırmayan gizlilik politikası ve sıfır pil tüketimi sunan rootlu hosts desteğiyle öne çıkan en güçlü araçlardan biridir. Reklam ağlarının ve izleyicilerin cihazınızı yavaşlatmasını engellemek için telefonunuzun durumuna uygun kurulum modunu seçerek hemen kullanmaya başlayabilirsiniz.
 
 Bir sonraki adımda, tarayıcınızda boş reklam alanlarını gizlemek ve kozmetik filtreleme sağlamak için açık kaynaklı tarayıcı eklentilerini inceleyebilir veya ağ genelinde koruma için DNS tabanlı filtreleme çözümlerimize göz atabilirsiniz.
+
+## İlgili Yazılar
+
+- [AdGuard Nedir Güvenli Reklam Engelleme]({{< ref "adguard-nedir-guvenli-reklam-engelleme-rehberi" >}})
+- [Android Root Nasıl Yapılır Magisk ile]({{< ref "android-root-nasil-yapilir-magisk-ile-adim-adim-rehber" >}})
+- [ViMusic Nedir Nasıl Kullanılır]({{< ref "vimusic-nedir-nasil-kullanilir" >}})
+

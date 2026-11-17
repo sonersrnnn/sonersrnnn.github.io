@@ -112,20 +112,24 @@ Standart koyu temadaki koyu gri tonlar yerine gerçek saf siyah (`#000000`) reng
 
 Yama uygulanmış bir YouTube uygulaması, resmi Google imzasını taşımadığı için Google Play Hizmetleri ile doğrudan iletişim kuramaz. ReVanced, cihazınıza **root erişimi yapmadan** kendi Google hesabınızla güvenle oturum açabilmeniz için **GmsCore (microG)** katmanını kullanır.
 
-Bu sayede tüm abonelikleriniz, izleme geçmişiniz ve çalma listeleriniz eksiksiz biçimde senkronize olur. Ayrıca yaptığınız tüm kişisel ayarları tek bir metin dosyası olarak dışa aktarabilir (export) ve yeni bir cihaza saniyeler içinde geri yükleyebilirsiniz (import).
+Bu sayede tüm abonelikleriniz, izleme geçmişiniz ve çalma listeleriniz eksiksiz biçimde senkronize olur. Bu süreçte [microG Nedir? Google Play Hizmetleri Olmadan Uygulama Çalıştırma]({{{< ref "microg-nedir-google-play-hizmetleri-olmadan-uygulama-calistirin" >}}) yazımızı inceleyebilirsiniz. Ayrıca yaptığınız tüm kişisel ayarları tek bir metin dosyası olarak dışa aktarabilir (export) ve yeni bir cihaza saniyeler içinde geri yükleyebilirsiniz (import).
 
 ---
 
 ## Sıkça Sorulan Sorular (SSS)
 
 ### YouTube ReVanced güvenli midir?
-Evet. ReVanced, açık kaynak kodlu yama prensibiyle çalışır. Kodları GitHub üzerinde halka açık olarak denetlenebilir. Güvenliğinizi korumak için önceden derlenmiş şüpheli üçüncü taraf APK siteleri yerine resmi ReVanced Manager aracılığıyla kendi yamanızı oluşturmanız önerilir.
+Evet. ReVanced, açık kaynak kodlu yama prensibiyle çalışır. Kodları GitHub üzerinde halka açık olarak denetlenebilir. Güvenliğinizi korumak için önceden derlenmiş şüpheli üçüncü taraf APK siteleri yerine resmi [ReVanced Manager Nedir ve Nasıl Kullanılır?]({{{< ref "revanced-manager-nedir-nasil-kullanilir-apk-yamalama-rehberi" >}}) kılavuzumuzu takip ederek kendi yamanızı oluşturmanız önerilir.
 
 ### ReVanced kullanmak için root gerekir mi?
 Hayır. ReVanced hem root'lu hem de root'suz cihazlarda sorunsuz çalışır. Root'suz cihazlarda Google hesabıyla oturum açabilmek için GmsCore / microG bileşeninin kurulması yeterlidir.
 
 ### YouTube Vanced ile ReVanced arasındaki fark nedir?
 YouTube Vanced kapalı kaynaklı ve tek parça bir modifikasyondu; yasal uyarılardan sonra geliştirilmesi durduruldu. ReVanced ise telif hakkı içeren hiçbir Google kodunu dağıtmaz; yalnızca kullanıcının elindeki yasal APK'yı yamalayan açık kaynaklı bir araç takımıdır.
+
+**İlgili ReVanced Ecosystem Yazıları:**
+- [ReVanced Manager Plus Nedir? Nasıl Kullanılır?]({{{< ref "revanced-manager-plus-nedir-nasil-kullanilir-rv-manager-plus" >}}): APK yamalama sürecini kolaylaştıran gelişmiş arayüz.
+- [ReVanced YouTube Music: Ücretsiz Premium Müzik Rehberi]({{{< ref "revanced-youtube-music-ucretsiz-premium-muzik-rehberi" >}}): YouTube Music için yama ve özellikler.
 
 ---
 
@@ -142,3 +146,16 @@ YouTube ReVanced, video izleme deneyiminde kullanıcıya tam kontrol ve özgürl
 [MigroG](https://github.com/vancedto/vanced.to/releases/download/2026-8/vanced.to_vanced_gms_microg_v0.3.13.2.250932.apk)
 
 ---
+
+## İlgili Yazılar
+
+- [ReVanced Manager Nedir ve Nasıl Kullanılır]({{< ref "revanced-manager-nedir-nasil-kullanilir-apk-yamalama-rehberi" >}})
+- [ReVanced Manager Plus Nedir ve Nasıl Kullanılır]({{< ref "revanced-manager-plus-nedir-nasil-kullanilir-rv-manager-plus" >}})
+- [ReVanced YouTube Music Ücretsiz Premium Müzik]({{< ref "revanced-youtube-music-ucretsiz-premium-muzik-rehberi" >}})
+- [microG Nedir: Google Play Hizmetleri Olmadan Uygulama Çalıştırın]({{< ref "microg-nedir-google-play-hizmetleri-olmadan-uygulama-calistirin" >}})
+- [NewPipe YouTube Premium Ücretsiz Kullanım]({{< ref "newpipe-youtube-premium-ucretsiz-kullanim-rehberi" >}})
+- [Metrolist YouTube Music Alternatifi]({{< ref "metrolist-nedir-youtube-music-alternatifi-android" >}})
+- [ViMusic Nedir Nasıl Kullanılır]({{< ref "vimusic-nedir-nasil-kullanilir" >}})
+- [SnapTube Nedir ve Video İndirme]({{< ref "snaptube-nedir-ve-video-indirme-rehberi" >}})
+- [RecTV ile Ücretsiz Film ve Dizi İzleme]({{< ref "rectv-ile-ucretsiz-film-ve-dizi-izleme-rehberi" >}})
+

@@ -41,6 +41,14 @@ NewPipe, sadece özellikleriyle değil, aynı zamanda kullanıcı gizliliğine v
 * **Çevrimdışı Veri Depolama:** Kişisel verileriniz ve tercihleriniz tamamen kendi cihazınızda çevrimdışı olarak saklanır.
 * **TOR Desteği:** Gizliliğini en üst düzeye çıkarmak isteyen kullanıcılar için video indirme trafiğini TOR ağı üzerinden akmaya zorlama potansiyeli bulunur (geliştirme aşamasındaki bazı akış özellikleri zamanla güncellenmektedir).
 
+## İlgili Yazılar
+
+- [ReVanced (Google hesabı senkronizasyonu için)]({{< ref "revanced-youtube-nedir-ozellikleri-ve-kullanim-rehberi" >}})
+- [microG / GmsCore (ReVanced hesap girişi için)]({{< ref "microg-nedir-google-play-hizmetleri-olmadan-uygulama-calistirin" >}})
+- [NewPipe indirme kaynağı (F-Droid)]({{< ref "f-droid-nedir-android-acik-kaynak-uygulama-magazasi" >}})
+- [Bağımsız müzik çalar alternatifi]({{< ref "vimusic-nedir-nasil-kullanilir" >}})
+- [YouTube Music alternatifi]({{< ref "metrolist-nedir-youtube-music-alternatifi-android" >}})
+
 ## Sonuç
 
 YouTube deneyiminizi reklamsız, arka planda çalışan ve tam gizlilik odaklı bir yapıya kavuşturmak istiyorsanız, NewPipe mükemmel bir alternatiftir. Uygulamayı resmi web sitesinden güvenle indirerek hemen kullanmaya başlayabilirsiniz.

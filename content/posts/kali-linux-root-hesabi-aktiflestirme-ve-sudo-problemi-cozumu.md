@@ -42,3 +42,10 @@ Root hesabına şifre tanımlamak ve doğrudan root ile oturum açmak için şu 
 4. **Root ile Oturum Açma:** İşlem tamamlandıktan sonra oturumu kapatıp kullanıcı değiştir bölümünden **root** kullanıcı adıyla ve belirlediğiniz şifreyle giriş yapabilirsiniz.
 
 Artık komut çalıştırmak için `sudo` yazmanıza gerek kalmadan sistemde tam yetkiye sahip olabilirsiniz.
+
+## İlgili Yazılar
+
+- [Kali Linux kurulum ve temel yapılandırma]({{< ref "kali-linux-nedir-ve-ikinci-isletim-sistemi-kurulumu" >}})
+- [Linux dağıtımları ve kullanıcı yönetimi temelleri]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}})
+- [Kali paket depoları ve apt yönetimi]({{< ref "kali-linux-paket-bulunamadi-hatasi-ve-sources-list-cozumu" >}})
+- [VirtualBox'ta Kali Linux kurulumu]({{< ref "kali-linux-sanal-makineye-nasil-kurulur-virtualbox-rehberi" >}})

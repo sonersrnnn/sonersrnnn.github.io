@@ -153,4 +153,15 @@ Verileriniz dünya çapında rastgele seçilen üç ayrı gönüllü röle üzer
 
 Teknik olarak girebilirsiniz ancak bu durum anonimliğinizi tamamen yok eder. Kişisel hesabınıza giriş yaptığınız anda oturum bilgilerinizle gerçek kimliğiniz eşleşir ve Tor ağının sağladığı gizlilik kalkanı anlamsız hale gelir.
 
+**Yerel Veri Şifreleme İçin:** Tor kullanarak ağ gizliliği sağlarken, disk ve dosya seviyesinde güçlü şifreleme için [VeraCrypt Nedir? Dosya ve Disk Şifreleme Rehberi]({{{< ref "veracrypt-nedir-dosya-disk-sifreleme-rehberi" >}}) incelememize göz atabilirsiniz.
+
 - - -
+
+## İlgili Yazılar
+
+- [VPN Nedir ve Kali Linux OpenVPN Kurulumu]({{< ref "vpn-nedir-ve-kali-linux-openvpn-kurulumu" >}})
+- [Telegram Mesajlaşma Platformu]({{< ref "telegram-mesajlasma-platformu-ve-ozgurlukcu-alternatifler" >}})
+- [VeraCrypt Dosya ve Disk Şifreleme]({{< ref "veracrypt-nedir-dosya-disk-sifreleme-rehberi" >}})
+- [ProtonVPN ReVanced Nedir Ücretsiz VPN]({{< ref "protonvpn-revanced-nedir-ucretsiz-vpn-guclendir" >}})
+- [Linux Nedir ve Popüler Linux Dağıtımları]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}})
+

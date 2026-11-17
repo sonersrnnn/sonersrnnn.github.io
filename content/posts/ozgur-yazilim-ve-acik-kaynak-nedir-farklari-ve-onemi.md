@@ -28,7 +28,7 @@ tags:
 
 Özgür ve Açık Kaynak Kodlu Yazılım (kısaca **ÖAKK** veya İngilizce karşılığıyla **FOSS - Free and Open Source Software**), kaynak kodları herkese açık olan, kullanıcılarına yazılımı dilediği amaç için çalıştırma, inceleme, değiştirme ve yeniden dağıtma hakları tanıyan özel bir lisansla yayınlanmış bilgisayar programlarıdır.
 
-Teknolojinin bugün internet sunucularından süper bilgisayarlara kadar omurgasını oluşturan [Linux Nedir? Açık Kaynak Kodlu İşletim Sistemi ve Popüler Dağıtımlar](https://sonersrnnn.github.io/linux-nedir-ve-populer-linux-dagitimlari/) dünyası, bu felsefenin insanlığa kazandırdığı en somut ve başarılı örnektir.
+Teknolojinin bugün internet sunucularından süper bilgisayarlara kadar omurgasını oluşturan [Linux ve açık kaynak ekosistemi]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}}) dünyası, bu felsefenin insanlığa kazandırdığı en somut ve başarılı örnektir.
 
 - - -
 
@@ -70,7 +70,7 @@ Kapalı kaynaklı bir uygulamada arka planda hangi verilerinizin kaydedildiğini
 
 ### 2. Gerçek Cihaz Mülkiyeti ve Şeffaflık
 
-Kapalı kaynak bir yazılımı satın aldığınızda mülkiyetini değil, yalnızca şirketin çizdiği sınırlar çerçevesinde kullanım hakkını kiralarsınız. Açık kaynakta ise programın mutlak kontrolü sizdedir. Mobil cihazınızda izinsiz reklamları engellemek için [AdAway Nedir? Android İçin Açık Kaynaklı Reklam Engelleyici](https://sonersrnnn.github.io/adaway-nedir-android-icin-acik-kaynakli-reklam-engelleyici/) tercih etmek, tam olarak bu bağımsızlık felsefesinin pratik bir sonucudur.
+Kapalı kaynak bir yazılımı satın aldığınızda mülkiyetini değil, yalnızca şirketin çizdiği sınırlar çerçevesinde kullanım hakkını kiralarsınız. Açık kaynakta ise programın mutlak kontrolü sizdedir. Mobil cihazınızda izinsiz reklamları engellemek için [AdAway rehberi]({{< ref "adaway-nedir-nasil-kullanilir" >}}) tercih etmek, tam olarak bu bağımsızlık felsefesinin pratik bir sonucudur.
 
 ### 3. Sıfır Lisans Maliyeti ve Donanım Tasarrufu
 
@@ -93,9 +93,16 @@ Teknoloji devlerinin kapalı ekosistemlerine mahkum değilsiniz. Günlük ihtiya
 | **Google Chrome / Edge** | **Mozilla Firefox**                        | Gizlilik odaklı, kullanıcı verilerini satmayan özgür tarayıcı.                                                                                                                            |
 | **Adobe Photoshop**      | **GIMP / Krita**                           | Profesyonel görsel düzenleme ve çizim araçları.                                                                                                                                           |
 | **WhatsApp / Telegram**  | **Signal**                                 | Uçtan uca şifreli, sunucularında veri tutmayan açık kaynaklı mesajlaşma.                                                                                                                  |
-| **Spotify / YT Music**   | **NewPipe / VLC Media Player**             | [NewPipe: YouTube Premium Özelliklerini Ücretsiz Kullanma Rehberi](https://sonersrnnn.github.io/newpipe-youtube-premium-ucretsiz-kullanim-rehberi/) gibi araçlarla reklamsız medya keyfi. |
+| **Spotify / YT Music**   | **NewPipe / VLC Media Player**             | [NewPipe YouTube istemcisi]({{< ref "newpipe-youtube-premium-ucretsiz-kullanim-rehberi" >}}) gibi araçlarla reklamsız medya keyfi. |
 
 - - -
+
+## İlgili Yazılar
+
+- [Linux ve açık kaynak ekosistemi genel rehberi]({{< ref "linux-nedir-ve-populer-linux-dagitimlari" >}})
+- [Sistem geneli reklam engelleme (kök izin gerektirir)]({{< ref "adaway-nedir-nasil-kullanilir" >}})
+- [YouTube için gizlilik odaklı istemci]({{< ref "newpipe-youtube-premium-ucretsiz-kullanim-rehberi" >}})
+- [Açık kaynak uygulamaların güvenli deposu]({{< ref "f-droid-nedir-android-acik-kaynak-uygulama-magazasi" >}})
 
 ![](/img/ozgur-yazilim-ve-acik-kaynak-nedir-farklari-ve-onemi/image1.jpeg)
 
